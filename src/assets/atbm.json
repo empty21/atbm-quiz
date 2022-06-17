@@ -1,0 +1,3686 @@
+[
+    {
+        "uuid": "ae182ccc-e259-4ca9-b946-ee572504a343",
+        "question": "Mô hình tổng quát đảm bảo an toàn thông tin và hệ thống thông tin thường gồm các lớp:",
+        "answers": [
+            "An ninh tổ chức, An ninh mạng và Điều khiển truy cập",
+            "An ninh tổ chức, Tưởng lửa và Điều khiển truy cập",
+            "An ninh tổ chức, An ninh mạng và An toàn hệ điều hành và ứng dụng",
+            "An ninh tổ chức, An ninh mạng và An ninh hệ thống"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "0e005e32-25b7-4cb9-8e69-4397846fc4a2",
+        "question": "An toàn thông tin gồm hai lĩnh vực chính là:",
+        "answers": [
+            "An ninh mạng và An toàn hệ thống",
+            "An toàn máy tính và An toàn Internet",
+            "An toàn máy tính và An ninh mạng",
+            "An toàn công nghệ thông tin và Đảm bảo thông tin"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "8f3be6bb-c81e-4238-ba1e-b6043d4fe5b9",
+        "question": "Tại sao cần phải đảm bảo an toàn cho thông tin?",
+        "answers": [
+            "Do có nhiều thiết bị kết nối mạng Internet với nhiều nguy cơ và đe dọa",
+            "Do có quá nhiều phần mềm độc hại",
+            "Do có quá nhiều nguy cơ tấn công mạng",
+            "Do có nhiều thiết bị kết nối mạng Internet"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "cf03b776-99ff-4593-ab4d-7eb253e18871",
+        "question": "An toàn hệ thống thông tin là:",
+        "answers": [
+            "Việc đảm bảo thông tin trong hệ thống không bị đánh cắp",
+            "Việc đảm bảo cho hệ thống thông tin hoạt động trơn tru, ổn định",
+            "Việc đảm bảo cho hệ thống thông tin không bị tấn công",
+            "Việc đảm bảo các thuộc tính an ninh, an toàn của hệ thống thông tin"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "53590e40-42bc-4b0e-8ce4-8855cd2a8e4c",
+        "question": "Người sử dụng hệ thống thông tin quản lý trong mô hình 4 loại hệ thống thông tin là:",
+        "answers": [
+            "Quản lý cao cấp",
+            "Giám đốc điều hành",
+            "Nhân viên",
+            "Quản lý bộ phận"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "50d2a6f7-8ea0-4562-b302-de2fcc6db7d3",
+        "question": "Nguyên tắc cơ bản cho đảm bảo an toàn thông tin, hệ thống và mạng là:",
+        "answers": [
+            "Phòng vệ nhiều lớp có chiều sâu",
+            "Cần đầu tư trang thiết bị và chuyên gia đảm bảo an toàn",
+            "Cần mua sắm và lắp đặt nhiều thiết bị an ninh chuyên dụng",
+            "Cân bằng giữa tính hữu dụng, chi phí và tính năng"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "69901d16-5f51-4a0d-b32f-7e1e108a889b",
+        "question": "Một trong các nội dung rất quan trọng của quản lý an toàn thông tin là:",
+        "answers": [
+            "Quản lý các ứng dụng",
+            "Quản lý hệ thống",
+            "Quản lý hệ điều hành",
+            "Quản lý rủi ro"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "de2e7949-37d3-4736-9cbf-fa0f6d5272dd",
+        "question": "Một thông điệp có nội dung nhạy cảm truyền trên mạng bị sửa đổi. Các thuộc tính an toàn thông tin nào bị vi phạm?",
+        "answers": [
+            "Bí mật, Toàn vẹn và sẵn dùng",
+            "Bí mật và Toàn vẹn",
+            "Bí mật",
+            "Toàn vẹn"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "7755568f-8584-4cc1-a02c-7edfcd404194",
+        "question": "Nguy cơ bị tấn công từ chối dịch vụ (DoS) và từ chối dịch vụ phân tán (DDoS) thường gặp ở vùng nào trong 7 vùng cơ sở hạ tầng CNTT?",
+        "answers": [
+            "Vùng máy trạm",
+            "Vùng mạng WAN",
+            "Vùng mạng LAN-to-WAN",
+            "Vùng mạng LAN"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "0a773e53-9b6b-4a6c-a9a6-abc03045e4b3",
+        "question": "An toàn thông tin (Information Security) là gì?",
+        "answers": [
+            "Là việc phòng chống đánh cắp thông tin",
+            "Là việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sửa đổi, hoặc phá hủy thông tin một cách trái phép",
+            "Là việc bảo vệ chống sử dụng, tiết lộ, sửa đổi, vận chuyển hoặc phá hủy thông tin một cách trái phép",
+            "Là việc phòng chống tấn công mạng"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "9231f0e3-a55d-4f0a-b088-681426ddb9df",
+        "question": "Một trong các biện pháp cụ thể cho quản lý, khắc phục các lỗ hổng bảo mật và tăng cường khả năng đề kháng cho hệ thống là:",
+        "answers": [
+            "Định kỳ cập nhật thông tin về các lỗ hổng từ các trang web chính thức",
+            "Định kỳ cập nhật các bản vá và nâng cấp hệ điều hành",
+            "Định kỳ nâng cấp hệ thống phần mềm",
+            "Định kỳ nâng cấp hệ thống phần cứng"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "aded7d95-5f3f-43b1-9b2a-1e7cb1407c8e",
+        "question": "Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?",
+        "answers": [
+            "password83",
+            "reception",
+            "!$aLtNb83",
+            "LaT3r"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "8dd1df9d-d008-4863-a76a-1bca11a26d9d",
+        "question": "Trong tấn công khai thác lỗi tràn bộ đệm, tin tặc thường sử dụng một số lệnh NOP (No Operation) ở phần đầu của mã tấn công. Mục đích của việc này là để:",
+        "answers": [
+            "Tăng khả năng phá hoại của mã tấn công",
+            "Tăng khả năng gây tràn bộ đệm",
+            "Tăng khả năng mã tấn công được thực hiện",
+            "Tăng khả năng gây lỗi chương trình"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "c4ea7531-ae94-4d15-9c9b-7cd7948fc02e",
+        "question": "Tìm phát biểu đúng trong các phát biểu sau:",
+        "answers": [
+            "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần mềm",
+            "Điểm yếu chỉ xuất hiện khi hệ thống bị tấn công",
+            "Điểm yếu hệ thống có thể xuất hiện trong cả các mô đun phần cứng và phần mềm",
+            "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần cứng"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "e60f9ea3-0dcd-48ee-8e52-1f9181e129d6",
+        "question": "Người sử dụng hệ thống trợ giúp ra quyết định trong mô hình 4 loại hệ thống thông tin là:",
+        "answers": [
+            "Quản lý cao cấp",
+            "Giám đốc điều hành",
+            "Nhân viên",
+            "Quản lý bộ phận"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "f7894add-b92f-40bb-ad9f-9e75cdd83ce7",
+        "question": "Các thành phần chính của hệ thống máy tính gồm:",
+        "answers": [
+            "CPU, Bộ nhớ, HDD, hệ điều hành và các ứng dụng",
+            "CPU, hệ điều hành và các ứng dụng",
+            "Hệ thống phần cứng và Hệ thống phần mềm",
+            "CPU, Bộ nhớ, HDD và Hệ thống bus truyền dẫn"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "b7b751e7-6d56-477f-8ed2-b537d03cd749",
+        "question": "Nguyên nhân của sự tồn tại các điểm yếu trong hệ thống có thể do:",
+        "answers": [
+            "Lỗi thiết kế, lỗi cài đặt và lập trình",
+            "Tất cả các khâu trong quá trình phát triển và vận hành",
+            "Lỗi quản trị",
+            "Lỗi cấu hình hoạt động"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "7b4eb023-02f8-4d79-a1d7-10e455feabf5",
+        "question": "Trên thực tế, có thể giảm khả năng bị tấn công nếu có thể...",
+        "answers": [
+            "Triệt tiêu được hết các nguy cơ",
+            "Triệt tiêu được hết các mối đe dọa",
+            "Giảm thiểu các lỗ hổng bảo mật",
+            "Kiểm soát chặt chẽ người dùng"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "9bdcf51b-2f72-407b-8268-45dc7c8032be",
+        "question": "Sâu SQL Slammer tấn công khai thác lỗi tràn bộ đệm trong hệ quản trị cơ sở dữ liệu:",
+        "answers": [
+            "SQL Server 2012",
+            "SQL Server 2000",
+            "SQL Server 2008",
+            "SQL Server 2003"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "b9cd6977-b2a1-4618-a0df-6f60fef9ced5",
+        "question": "Trong suốt quá trình kiểm định một bản ghi hệ thống máy chủ, các mục nào sau đây có thể được xem như là một khả năng đe dọa bảo mật ?",
+        "answers": [
+            "Năm lần nổ lực login thất bại trên tài khoản “jsmith”",
+            "Hai lần login thành công với tài khoản Administrator",
+            "Năm trăm ngàn công việc in được gởi đến một máy in",
+            "Ba tập tin mới được lưu trong tài khoản thư mục bởi người sử dụng là “finance”"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "e7df44dc-8ce1-46f8-9b46-c95511c348f2",
+        "question": "Các kỹ thuật và công cụ thường được sử dụng trong an ninh mạng bao gồm:",
+        "answers": [
+            "VPN, SSL/TLS, PGP",
+            "Điều khiển truy nhập",
+            "Điều khiển truy nhập, tường lửa, proxy và các giao thức bảo mật, ứng dụng dựa trên mật mã",
+            "Tường lửa, proxy"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "08099010-53ec-4c64-9bfc-015ff5e20026",
+        "question": "Các thành phần của an toàn thông tin gồm:",
+        "answers": [
+            "An toàn máy tính, An ninh mạng, Quản lý ATTT và Chính sách ATTT",
+            "An toàn máy tính và dữ liệu, An ninh mạng, Quản lý ATTT và Chính sách ATTT",
+            "An toàn máy tính, An ninh mạng, Quản lý rủi ro ATTT và Chính sách ATTT",
+            "An toàn máy tính, An toàn dữ liệu, An ninh mạng, Quản lý ATTT"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "3acf0994-a456-44c2-8c0a-722c1e4d7a08",
+        "question": "Việc thực thi quản lý ATTT cần được thực hiện theo chu trình lặp lại là do",
+        "answers": [
+            "Các điều kiện bên trong và bên ngoài hệ thống thay đổi theo thời gian",
+            "Trình độ cao của tin tặc và công cụ tấn công ngày càng phổ biến",
+            "Số lượng và khả năng phá hoại của các phần mềm độc hại ngày càng tăng",
+            "Máy tính, hệ điều hành và các phần mềm được nâng cấp nhanh chóng"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "386476e0-b4d5-49b7-af6c-4ba4082ef723",
+        "question": "Hệ thống thông tin là:",
+        "answers": [
+            "Một hệ thống tích hợp các thành phần nhằm phục vụ việc thu thập, lưu trữ, xử lý thông tin, chuyển giao thông tin, tri thức và các sản phẩm số",
+            "Một hệ thống gồm các thành phần phần cứng và phần mềm nhằm phục vụ việc thu thập, lưu trữ, xử lý thông tin, chuyển giao thông tin",
+            "Một hệ thống gồm các thành phần phần cứng nhằm phục vụ việc thu thập, lưu trữ, xử lý thông tin, chuyển giao thông tin, tri thức và các sản phẩm số",
+            "Một hệ thống gồm các thành phần phần mềm nhằm phục vụ việc thu thập, lưu trữ, xử lý thông tin, chuyển giao thông tin, tri thức và các sản phẩm số"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "6bd8379b-12f9-4615-ba5e-3816cca84433",
+        "question": "Tính bí mật của thông tin có thể được đảm bảo bằng:",
+        "answers": [
+            "Bảo vệ vật lý",
+            "Các kỹ thuật mã hóa",
+            "sử dụng VPN",
+            "Bảo vệ vật lý, VPN, hoặc mã hóa"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "b24a8ff8-fac1-4127-ae5b-60628528fba9",
+        "question": "Đảm bảo thông tin (Information assurance) thường được thực hiện bằng cách:",
+        "answers": [
+            "Sử dụng kỹ thuật tạo dự phòng ra đĩa cứng",
+            "Sử dụng kỹ thuật tạo dự phòng ra băng từ",
+            "Sử dụng kỹ thuật tạo dự phòng ngoại vi",
+            "Sử dụng kỹ thuật tạo dự phòng cục bộ"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "78e4d0b0-a2ab-4a23-a223-88064fc2a471",
+        "question": "Lỗi tràn bộ đệm là lỗi trong khâu:",
+        "answers": [
+            "Kiểm thử phần mềm",
+            "Thiết kế phần mềm",
+            "Lập trình phần mềm",
+            "Quản trị phần mềm"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "45768eb2-ebf5-46ba-ae59-e317d1739489",
+        "question": "Đâu là dạng lỗ hổng bảo mật thường gặp trong hệ điều hành và các phần mềm ứng dụng?",
+        "answers": [
+            "Lỗi tràn bộ đệm",
+            "Lỗi quản trị",
+            "Lỗi cấu hình",
+            "Lỗi thiết kế"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "29931c6b-e933-48a6-87d3-1f395a9c9d07",
+        "question": "Quản lý các bản vá và cập nhật phần mềm là phần việc thuộc lớp bảo vệ nào trong mô hình tổng thể đảm bảo an toàn hệ thống thông tin?",
+        "answers": [
+            "Lớp an ninh mạng",
+            "Lớp an ninh hệ thống",
+            "Lớp an ninh cơ quan/tổ chức",
+            "Lớp an ninh hệ điều hành và phần mềm"
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "81e650b4-162d-4a62-a884-ab41effca809",
+        "question": "Khi khai thác lỗi tràn bộ đệm, tin tặc thường chèn mã độc, gây tràn và ghi đè để sửa đổi thành phần nào sau đây của bộ nhớ Ngăn xếp để chuyển hướng nhằm thực hiện mã độc của mình:",
+        "answers": [
+            "Các biển đầu vào của hàm",
+            "Bộ đệm hoặc biển cục bộ của hàm",
+            "Con trỏ khung ngăn xếp (sfp)",
+            "Địa chỉ trở về của hàm"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "6b36ea04-0c45-46e0-a5db-3b290150f4cb",
+        "question": "Một trong các mối đe dọa an toàn thông tin thường gặp là:",
+        "answers": [
+            "Phần mềm nghe lén",
+            "Phần mềm quảng cáo",
+            "Phần mềm phá mã",
+            "Phần mềm độc hại"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "3e0fffc5-a584-4e22-87e7-a5f9c1f10707",
+        "question": "Trong các vùng hạ tầng CNTT, vùng nào có nhiều mối đe dọa nguy cơ nhất?",
+        "answers": [
+            "vùng người dùng",
+            "vùng máy trạm",
+            "vùng mạng LAN",
+            "vùng mạng LAN-to-WAN"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "fb78470d-2f90-45bf-822d-f9a966759f87",
+        "question": "Trong các vùng hạ tầng CNTT, vùng nào có các lỗ hổng trong quản lý phần mềm ứng dụng của máy chủ?",
+        "answers": [
+            "vùng máy trạm",
+            "vùng mạng LAN-to-WAN",
+            "vùng truy nhập từ xa",
+            "vùng hệ thống và ứng dụng"
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "9d0cf35f-4ea7-4f96-a596-98b27d651735",
+        "question": "Trong các vùng hạ tầng CNTT, vùng nào dễ bị tấn công DoS, DDoS nhất?",
+        "answers": [
+            "vùng người dùng",
+            "vùng mạng LAN",
+            "vùng mạng WAN",
+            "vùng mạng LAN-to-WAN"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "bb016735-ffe4-4015-a8ba-508c1b2ef6a6",
+        "question": "Việc quản lý, khắc phục các lỗ hổng bảo mật và tăng cường khả năng đề kháng cho hệ thống cần được thực hiện theo nguyên tắc chung là:",
+        "answers": [
+            "Cân bằng giữa An toàn, Hữu dụng và Tin cậy",
+            "Cân bằng giữa An toàn, Rẻ tiền và Chất lượng",
+            "Cân bằng giữa An toàn, Hữu dụng và Rẻ tiền",
+            "Cân bằng giữa An toàn, Tin cậy và Rẻ tiền"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "2b17ee49-ddce-4c57-af16-1f9f69267fe0",
+        "question": "Các mối nguy cơ đe dọa thường trực là:",
+        "answers": [
+            "Tin tặc và các phần mềm độc hại",
+            "Mất thông tin và các phầm mềm nghe lén.",
+            "Phần cứng và phần mềm độc hại.",
+            "Các phần mềm độc hại."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "fb6f2b92-fa91-4733-857e-36304017f6d3",
+        "question": "Người sử dụng hệ thống thông tin điều hành trong mô hình 4 loại hệ thống thông tin là:",
+        "answers": [
+            "Quản lý cao cấp",
+            "Giám đốc điều hành",
+            "Nhân viên",
+            "Quản lý bộ phận"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "8bf31da6-2305-45d0-8e16-83dd642868c2",
+        "question": "Các phần của hệ thống thông tin dựa trên máy tính là:",
+        "answers": [
+            "Phần cứng (Hardware), phần mềm (Software), cơ sở dữ liệu (Databases), hệ thống mạng (Networks), tập các lệnh kết hợp (Procedures).",
+            "Phần cứng (Hardware), phần mềm (Software), người dùng (Actor), hệ thống mạng (Networks), tập các lệnh kết hợp (Procedures).",
+            "Phần cứng (Hardware), phần mềm (Software), dữ liệu (Data), bảo vê (Security), hệ thống mạng (Networks), tập các lệnh kết hợp (Procedures).",
+            "Phần cứng (Hardware), phần mềm (Software), cơ sở dữ liệu (Databases), mạng riêng ảo (VPN), tập các lệnh kết hợp (Procedures)."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "23780d90-fe00-4aac-b01c-244829b5dbc7",
+        "question": "Công thức tính tỉ lệ tính sẵn dùng:",
+        "answers": [
+            "A = (Uptime)/(Uptime + Downtime).",
+            "A = (Uptime)/(Loadtime + Downtime).",
+            "A = (Uptime)/(Uptime + Downtime + Loadtime).",
+            "A = (Uptime)/(Uptime + Loadtime)."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "dfbccdfb-7048-4e2b-9ece-64a819bf928e",
+        "question": "Các bước thực thi quản lí ATTT:",
+        "answers": [
+            "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Giám sát kết quả thực hiện (Monitor), Thực hiện các kiểm soát (Control).",
+            "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Thực hiện kiểm tra (Check), Hành động (Act).",
+            "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Giám sát kết quả thực hiện (Monitor), Thực hiện kiểm tra (Check).",
+            "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Thực hiện kiểm tra (Check), Thực hiện các kiểm soát (Control)."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "57471fe4-586e-4fee-8a34-de685dffa4e2",
+        "question": "Chính sách an toàn thông tin không bao gồm:",
+        "answers": [
+            "Chính sách an toàn ở mức người dùng (User security policy).",
+            "Chính sách an toàn ở mức vật lý (Physical security policy)",
+            "Chính sách an toàn ở mức tổ chức (Organizational security policy)",
+            "Chính sách an toàn ở mức logic (Logical security policy)"
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "23d4caa7-455f-4cfb-b191-2ef1e10553e5",
+        "question": "Tính toàn vẹn liên quan đến … và … của dữ liệu.",
+        "answers": [
+            "tính hợp lệ (validity) … sự chính xác (accuracy).",
+            "tính hợp lệ (validity) … sự chính xác (rigorous).",
+            "sự hợp pháp (legalization) … sự chính xác (accuracy).",
+            "sự hợp pháp (legalization) … sự chính xác (rigorous)."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "22ca22bf-f6c9-4b7a-a327-434a6e4dddb5",
+        "question": "Các lớp phòng vệ điển hình để đàm bảo ATTT và an toàn HTTT:",
+        "answers": [
+            "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp an ninh mạng (Network Security), Lớp an ninh hệ thống (System Integrity).",
+            "Lớp bảo vệ vật lý (Physical Security), Lớp an ninh mạng (Network Security), Lớp an ninh hệ thống (System Integrity).",
+            "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp mạng riêng ảo (Virtual Private Network), Lớp an ninh hệ thống (System Integrity).",
+            "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp an ninh mạng (Network Security), Lớp an ninh hệ thống (System Security)."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "2103d473-af54-4041-b071-c4af7bead2e0",
+        "question": "Các đe dọa với tầng người dùng bao gồm:",
+        "answers": [
+            "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; đưa CD/DVD/USB với các files cá nhân vào hệ thống; thiếu ý thức về vấn đề an ninh an toàn.",
+            "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, âm nhạc, video; truy nhập trái phép vào máy trạm.",
+            "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; thăm dò và rà quét trái phép các cổng dịch vụ; thiếu ý thức về vấn đề an ninh an toàn.",
+            "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, âm nhạc, video; nguy cơ từ người dùng giả mạo trong mạng WLAN."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "c637a0a2-918b-4aac-91ef-6441d5eccd55",
+        "question": "Trong các vùng hạ tầng CNTT, vùng nào dễ bị tấn công kiểu vét cạn (brute force) nhất?",
+        "answers": [
+            "vùng người dùng",
+            "vùng hệ thống/ứng dụng",
+            "vùng truy cập từ xa",
+            "vùng mạng LAN-to-WAN."
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "2c619ae8-919a-4fcb-8078-15f101c30d45",
+        "question": "Các đe dọa với vùng máy trạm bao gồm:",
+        "answers": [
+            "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; đưa CD/DVD/USB với các files cá nhân vào hệ thống; thiếu ý thức về vấn đề an ninh an toàn.",
+            "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, âm nhạc, video; truy nhập trái phép vào máy trạm.",
+            "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; thăm dò và rà quét trái phép các cổng dịch vụ; thiếu ý thức về vấn đề an ninh an toàn.",
+            "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, âm nhạc, video; nguy cơ từ người dùng giả mạo trong mạng WLAN."
+        ],
+        "part": 1,
+        "answer": 1
+    },
+    {
+        "uuid": "91feafb9-3aef-45a1-b225-3daeeb237874",
+        "question": "Người sử dụng Hệ thống xử lý giao dịch trong mô hình 4 loại hệ thống thông tin là:",
+        "answers": [
+            "Quản lý cao cấp",
+            "Giám đốc điều hành",
+            "Nhân viên",
+            "Quản lý bộ phận"
+        ],
+        "part": 1,
+        "answer": 2
+    },
+    {
+        "uuid": "5a5124bf-afbc-4d58-8b36-b6bdbdb5f455",
+        "question": "Đâu là 1 lớp phòng vệ an ninh mạng:",
+        "answers": [
+            "Tường lửa, mạng riêng ảo (VPN).",
+            "Lớp chính sách & thủ tục đảm bảo ATTT.",
+            "Lớp quản trị tài khoản và phân quyền người dùng.",
+            "Lớp phát hiện và ngăn chặn phần mềm độc hại."
+        ],
+        "part": 1,
+        "answer": 0
+    },
+    {
+        "uuid": "629b2ffe-c38e-4e42-95fa-2ecc2afe1136",
+        "question": "Các biện pháp được sử dụng để đảm bảo an toàn máy tính và dữ liệu là:",
+        "answers": [
+            "Đảm bảo an toàn hđh, máy tính, dịch vụ; sử dụng tường lửa, proxy.",
+            "Các kỹ thuật và hệ thống pháp hiện, ngăn chặn tấn công, xâm nhập.",
+            "Vấn đề về phòng chống phần mềm độc hại, giám sát mạng.",
+            "Việc sao lưu tạo dự phòng dữ liệu, đảm bảo dữ liệu không bị mất mát khi xảy ra sự cố."
+        ],
+        "part": 1,
+        "answer": 3
+    },
+    {
+        "uuid": "aa3bfc53-51ed-4186-bcac-dc56882a0bc7",
+        "question": "Đây là một trong các biện pháp phòng chống tấn công khai thác lỗi tràn bộ đệm?",
+        "answers": [
+            "Sử dụng tường lửa",
+            "Sử dụng công nghệ xác thực mạnh",
+            "Sử dụng các kỹ thuật mật mã",
+            "Sử dụng cơ chế cẩm thực hiện mã trong dữ liệu"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "45548ac9-ff51-4d92-8f23-344223124381",
+        "question": "Các vùng bộ nhớ thường bị tràn gồm:",
+        "answers": [
+            "Ngăn xếp (Stack) và vùng nhớ cấp phát động (Heap)",
+            "Ngăn xếp (Stack) và Bộ nhớ đệm (Cache)",
+            "Hàng đợi (Queue) và vùng nhớ cấp phát động (Heap)",
+            "Hàng đợi (Queue) và Ngăn xếp (Stack)"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "d3ab67ee-9e1c-4dab-96a5-a70d311ed938",
+        "question": "Lỗ hổng an ninh trong một hệ thống là:",
+        "answers": [
+            "Bất kỳ điểm yếu nào trong hệ thống cho phép mối đe dọa có thể gây tác hại",
+            "Các điểm yếu trong hệ điều hành",
+            "Tất cả điểm yếu hoặc khiếm khuyết trong hệ thống",
+            "Các điểm yếu trong các phần mềm ứng dụng"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "31b63c89-2656-4366-bca7-b7de009f170e",
+        "question": "Đâu là biện pháp được sử dụng để phòng chống lỗi không kiểm tra đầu vào:",
+        "answers": [
+            "Kiểm tra tất cả các dữ liệu đầu vào, đặc biệt dữ liệu nhập từ người dùng và từ các nguồn không tin cậy.",
+            "Tạo các bộ lọc để lọc bỏ 1 số ký tự đặc biệt của các ngôn ngữ trong các trường hợp cần thiết mà kẻ tấn công có thể sử dụng.",
+            "Luôn chạy các chương trình ứng dụng với quyền tối thiểu – vừa đủ để thực thi các tác vụ",
+            "Sử dụng giải thuật mã hóa/giải mã, hàm băm yếu, lạc hậu, hoặc có lỗ hổng (DES, MD4, MD5, ...)"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "7eb31470-da11-4367-a7b8-85ea5c46cdc6",
+        "question": "Các lỗ hổng bảo mật thường tồn tại nhiều nhất trong thành phần nào của hệ thống:",
+        "answers": [
+            "Hệ điều hành",
+            "Các dịch vụ mạng",
+            "Các ứng dụng",
+            "Các thành phần phần cứng"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "5e285f7a-1f9f-40ba-a266-1623f60370e4",
+        "question": "Trong tấn công khai thác lỗi tràn bộ đệm, tin tặc thường sử dụng shellcode. Shellcode đó là dạng:",
+        "answers": [
+            "Mã Java",
+            "Mã C/C++",
+            "Mã máy",
+            "Mã Hợp ngữ"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "591e0fef-6381-40fb-9684-f93ff933cccd",
+        "question": "Lỗ hổng bảo mật (Security vulnerability) là một điểm yếu tồn tại trong một hệ thống cho phép tin tặc:",
+        "answers": [
+            "Khai thác nhằm đánh cắp các thông tin trong hệ thống",
+            "Khai thác gây tổn hại đến các thuộc tính an ninh của hệ thống đó",
+            "Khai thác, tấn công phá hoại và gây tê liệt hệ thống",
+            "Khai thác nhằm chiếm quyền điều khiển hệ thống"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "be4fc69e-0974-4c75-939b-84f936eb130e",
+        "question": "Loại tấn công nào sau đây chiếm quyền truy nhập đến tài nguyên lợi dụng cơ chế điều khiển truy nhập DAC?",
+        "answers": [
+            "Spoofing",
+            "Trojan horse",
+            "Man in the middle",
+            "Phishing"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "89f81e19-5e8e-4c5a-a940-43628c268dd0",
+        "question": "Đâu là tên viết đúng của Hệ thống phát hiện đột nhập/xâm nhập?",
+        "answers": [
+            "Intrusion Detector System",
+            "Intrusion Detecting System",
+            "Intrusion Detection System",
+            "Instruction Detection System"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "5b9283bd-581e-4435-ae45-5cf88d21c828",
+        "question": "Mức độ nghiêm trọng chia Microsoft là",
+        "answers": [
+            "Nguy hiểm, Quan trọng, Trung bình, Thấp",
+            "Nguy hiểm, Cao, Trung bình, Thấp",
+            "Cao, Quan trọng, Trung bình, Không quan trọng",
+            "Cao, Trung bình, Thấp, Yếu"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "455aa56e-8ed4-4bbe-89ab-c438083348b4",
+        "question": "Tác hại của lỗi tràn bộ đệm là:",
+        "answers": [
+            "Gây mất dữ liệu của người dùng",
+            "Có thể khiến cho ứng dụng ngừng hoạt động, gây mất dữ liệu hoặc thậm chí giúp kẻ tấn công kiểm soát hệ thống",
+            "Khiến chương trình ngừng hoạt động",
+            "Chiếm quền kiểm soát và phá hỏng hệ thống"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "942d80a5-06b2-4dd8-95a8-aeb57745158d",
+        "question": "Đâu không phải là một trong các biện pháp phòng chống lỗi không kiểm tra đầu vào",
+        "answers": [
+            "Kiểm tra tất cả các dữ liệu đầu vào, đặc biệt dữ liệu nhập từ người dùng và từ các nguồn không tin cậy",
+            "Không dùng user quản trị (root hoặc admin) để chạy các chương trình ứng dụng",
+            "Tạo các bộ lọc để lọc bỏ các ký tự đặc biệt và các từ khóa của các ngôn ngữ trong các trường hợp cần thiết mà kẻ tấn công có thể sử dụng",
+            "Kiểm tra sự hợp lý của nội dung dữ liệu"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "8f7f6ea2-2e0d-4e9b-85b0-0500d0e63ffd",
+        "question": "Các dạng dữ liệu không cần kiểm tra là",
+        "answers": [
+            "Các trường dữ liệu text",
+            "Các file âm thanh, hình ảnh, hoặc đồ họa do người dùng hoặc các tiến trình khác cung cấp",
+            "Các dữ liệu từ mạng hoặc các nguồn không tin cậy",
+            "Các dữ liệu được đưa ra bởi hệ thống"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "2b034fc4-083d-4678-9a90-4c1f6d611c14",
+        "question": "Kẻ tấn công có thể kiểm tra tất cả các … đầu vào và thử tất cả các … có thể khai thác được",
+        "answers": [
+            "Bước / Phương thức",
+            "Dữ liệu / Phương thức",
+            "Dữ liệu / Khả năng",
+            "Bước / Khả năng"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "ba61c2d7-c6eb-4e77-b0ae-cd284352f2c4",
+        "question": "Khi kiểm soát truy cập bị lỗi, một người dùng bình có thể … của người quản trị và có toàn quyền truy nhập vào hệ thống",
+        "answers": [
+            "Mượn quyền",
+            "Xin quyền",
+            "Đoạt quyền",
+            "Đưa quyền"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "4c3870ca-fb00-4ec7-91f0-c8a4b7086209",
+        "question": "Đâu không phải là phương pháp phòng chống lỗ hổng điều khiển truy cập",
+        "answers": [
+            "Không dùng user quản trị (root hoặc admin) để chạy các chương trình ứng dụng",
+            "Sử dụng các công cụ phân tích mã tự động tìm các điểm có khả năng xảy ra lỗi",
+            "Luôn chạy các chương trình ứng dụng với quyền tối thiểu – vừa đủ để thực thi các tác vụ",
+            "Kiểm soát chặt chẽ người dùng, xóa bỏ hoặc cấm truy nhập với những người dùng ngầm định kiểu everyone"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "0a7d1bd3-089f-4086-9cd0-e125a456b687",
+        "question": "Đâu không phải là 1 vấn đề xảy với cơ chế xác thực",
+        "answers": [
+            "Mật khẩu được lưu dưới dạng rõ (plain text)",
+            "Sử dụng mật khẩu đơn giản, dễ đoán, hoặc dùng mật khẩu trong thời gian dài",
+            "Sử dụng cơ chế xác thực không đủ mạnh",
+            "Chọn mật khẩu đủ mạnh để sử dụng"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "f0d75017-deac-485a-b995-a09be354eb7a",
+        "question": "Đâu là một thao tác an toàn đối với file",
+        "answers": [
+            "Sử dụng mật khẩu và quyền phù hợp để truy cập",
+            "Thực hiện đọc/ghi file lưu ở những nơi mà các người dùng khác cũng có thể ghi file đó",
+            "Không kiểm tra chính xác loại file, định danh thiết bị, các links hoặc các thuộc tính khác của file trước khi sử dụng",
+            "Không kiểm tra mã trả về sau mỗi thao tác với file"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "8e751f28-d57f-4275-9d86-ad412fb43544",
+        "question": "Đâu không phải là 1 biện pháp khắc phục và tăng cường khả năng để kháng cho hệ thống",
+        "answers": [
+            "Thường xuyên cập nhật thông tin về các điểm yếu, lỗ hổng bảo mật từ các trang web chính thức",
+            "Người dùng được quyền truy nhập vào mọi tác vụ của hệ thống",
+            "Cần có chính sách quản trị người dùng, mật khẩu và quyền truy nhập chặt chẽ ở mức hệ điều hành và mức ứng dụng",
+            "Sử dụng các biện pháp phòng vệ ở lớp ngoài như tường lửa, proxies"
+        ],
+        "part": 2,
+        "answer": 1
+    },
+    {
+        "uuid": "de859558-8785-4ba6-8895-1f942d098512",
+        "question": "Một điều kiện đua tranh tồn tại khi có sự thay đổi … của 2 hay một số sự kiện gây ra sự thay đổi … của hệ thống",
+        "answers": [
+            "Vị trí / Quá trình",
+            "Vị trí / Hành vi",
+            "Trật tự / Quá trình",
+            "Trật tự / Hành vi"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "554ef859-94cd-48e8-8a08-17026fb76d2c",
+        "question": "Các loại điểm yếu của hệ thống là",
+        "answers": [
+            "Có điểm yếu đã biết và đã được khắc phục",
+            "Có điểm yếu đã biết và chưa được khắc phục",
+            "Có điểm yếu chưa biết/chưa được phát hiện",
+            "Tất cả các đáp"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "946a8b2e-0d6c-45b1-8df2-f1db7e2c63af",
+        "question": "Một trong các dạng lỗ hổng thường gặp trong hệ điều hành và các phần mềm ứng dụng là",
+        "answers": [
+            "SYN floods",
+            "DDos",
+            "Buffer Overflows",
+            "Worms"
+        ],
+        "part": 2,
+        "answer": 2
+    },
+    {
+        "uuid": "38255e46-7c78-41ee-9315-a586b92f5d99",
+        "question": "Trong điểm yếu bảo mật do các điều kiện tranh đua, Kẻ tấn công có thể lợi dụng … giữa 2 sự kiện để …, đổi tên file hoặc can thiệp vào quá trình hoạt động bình thường của hệ thống",
+        "answers": [
+            "Khoảng thời gian / Chèn mã độc",
+            "Khoảng cách / Thay đổi biến",
+            "Khoảng thời gian / Thay đổi biến",
+            "Khoảng cách / Chèn mã độc"
+        ],
+        "part": 2,
+        "answer": 0
+    },
+    {
+        "uuid": "38ec9203-9952-47ab-a283-00fd1aefb803",
+        "question": "Các lỗ hổng bảo mật trên hệ thống là do",
+        "answers": [
+            "Dịch vụ cung cấp",
+            "Bản thân hệ điều hành",
+            "Con người tạo ra",
+            "Tất cả đều đúng"
+        ],
+        "part": 2,
+        "answer": 3
+    },
+    {
+        "uuid": "0746fcb7-d212-4e81-b0d3-288329075467",
+        "question": "Khác biệt cơ bản của vi rút và sâu là:",
+        "answers": [
+            "Vi rút có khả năng tự lây lan mà không cần tương tác của người dùng",
+            "Sâu có khả năng tự lây lan mà không cần tương tác của người dùng",
+            "Sâu Có khả năng phá hoại lớn lơn",
+            "Vi rút có khả năng phá hoại lớn lớn"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "6a13bc49-0d41-40a0-9ae2-c17b67fd465e",
+        "question": "Dạng tấn công gây ngắt quãng dịch vụ hoặc kênh truyền thông cho người dùng bình thường là:",
+        "answers": [
+            "Interceptions",
+            "Fabrications",
+            "Interruptions",
+            "Modifications"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "e2fdab87-e10e-41fa-9ae5-884d2ac6324d",
+        "question": "Tấn công nghe lén là kiểu tấn công:",
+        "answers": [
+            "Thụ động",
+            "Chủ động",
+            "Chiếm quyền điều khiển",
+            "Chủ động và bị động"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "dc471b8b-06ee-4bb0-a451-6012fd03ffdf",
+        "question": "Dạng tấn công chặn bắt thông tin truyền trên mạng để sửa đổi hoặc lạm dụng là:",
+        "answers": [
+            "Fabrications",
+            "Modifications",
+            "Interruptions",
+            "Interceptions"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "67af103e-4b20-419c-b901-938dc45834e8",
+        "question": "Có thể phòng chống tấn công Smurf bằng cách cấu hình các máy và router không trả lời...",
+        "answers": [
+            "Các yêu cầu ICMP hoặc các yêu cầu phát quảng bá",
+            "Các yêu cầu TCP hoặc các yêu cầu phát quảng bá",
+            "Các yêu cầu UPD hoặc các yêu cầu phát quảng bá",
+            "Các yêu cầu HTTP hoặc các yêu cầu phát quảng bá"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "e47690c3-5216-4b33-9f6f-855626e045a1",
+        "question": "Dạng tấn công giả mạo thông tin thường để đánh lừa người dùng thông thường là:",
+        "answers": [
+            "Modifications",
+            "Fabrications",
+            "Interruptions",
+            "Interceptions"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "b7dc794e-f16f-4773-891c-1c4af5475ff0",
+        "question": "Kỹ thuật tấn công Smurf sử dụng giao thức ICMP và Cơ chế gửi…",
+        "answers": [
+            "Unicast",
+            "Multicast",
+            "Anycast",
+            "Broadcast"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "2177fd9d-2d61-43cd-9fcd-d6b48458acd2",
+        "question": "Pharming là kiểu tấn công vào…",
+        "answers": [
+            "Máy chủ web",
+            "Máy chủ cơ sở dữ liệu của trang web",
+            "Máy chủ và máy khách web",
+            "Máy khách/trình duyệt web"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "3dd9b351-e556-4974-b3b0-c4536e7ff48f",
+        "question": "Đây là một công cụ kiểm tra lỗ hổng tấn công chèn mã SQL trên các website:",
+        "answers": [
+            "SQLCheck",
+            "SQL Server",
+            "SQLmap",
+            "SQLite"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "ac322793-948e-4265-a9c6-7efe60fa27e0",
+        "question": "Khác biệt cơ bản giữa tấn công DoS và DDoS là:",
+        "answers": [
+            "Phạm vi tấn công",
+            "Mức độ gây hại",
+            "Kỹ thuật tấn công",
+            "Tần suất tấn công"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "bc40bc8c-6a47-4fe2-89c5-15d8ce80d74b",
+        "question": "Các máy tính ma/máy tính bị chiếm quyền điều khiển thường được tin tặc sử dụng để...",
+        "answers": [
+            "Gửi các yêu cầu tấn công chèn mã",
+            "Đánh cắp dữ liệu từ máy chủ cơ sở dữ liệu",
+            "Gửi thư rác, thư quảng cáo",
+            "Thực hiện tấn công tràn bộ đệm."
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "bbcef7c5-8ab5-4a8c-abf6-0d9aa7c226b9",
+        "question": "Trong dạng tấn công vào mật khẩu dựa trên từ điển, tin tặc đánh cắp mật khẩu của người dùng bằng cách:",
+        "answers": [
+            "Tìm mật khẩu trong từ điển các mật khẩu",
+            "Thử các từ có tần suất sử dụng cao làm mật khẩu trong từ điển",
+            "Vét cận các mật khẩu có thể có",
+            "Lắng nghe trên đường truyền để đánh cắp mật khẩu"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "eae9f4cd-b7ce-4c24-a4ae-e234ca148e29",
+        "question": "Một trong các phương thức lây lan thường gặp của sâu mạng là:",
+        "answers": [
+            "Lây lan thông qua sao chép các file",
+            "Lây lan thông qua dịch vụ POP",
+            "Lây lan thông qua khả năng thực thi từ xa",
+            "Lây lan thông qua Microsoft Office"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "57fb4b27-6558-4821-a0b9-7d4983c932a9",
+        "question": "Đây là một kỹ thuật tấn công Dos?",
+        "answers": [
+            "SYN requests",
+            "DNS spoofing",
+            "IP spoofing",
+            "Ping of death"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "243c0fa7-0bb6-4f89-9141-838df0a4b920",
+        "question": "Tấn công từ chối dịch vụ (Dos - Denial of Service Attacks) là dạng tấn công có khả năng...",
+        "answers": [
+            "Gây hư hỏng phần cứng máy chủ",
+            "Cản trở người dùng hợp pháp truy nhập các tài nguyên hệ thống",
+            "Đánh cắp dữ liệu trong hệ thống",
+            "Cản trở người dùng hợp pháp truy nhập các file dữ liệu của hệ thống"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "7d608ce7-4930-4bb2-80bd-f95de2508b22",
+        "question": "Mật khẩu an toàn trong thời điểm hiện tại là mật khẩu có:",
+        "answers": [
+            "Chứa các ký tự từ nhiều dạng ký tự",
+            "Khả năng chống tấn công phát lại và chứa các ký tự từ nhiều dạng ký tự",
+            "Độ dài từ 8 ký tự trở lên, gồm chữ cái hoa, thường, chữ số và ký tự đặc biệt",
+            "Độ dài lớn hơn hoặc bằng 8 ký tự"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "369056d6-6372-474e-a56c-a92390f7acab",
+        "question": "Nguy cơ cao nhất mà một cuộc tấn công chèn mã SQL có thể gây ra cho một hệ thống là:",
+        "answers": [
+            "Đánh cắp các thông tin trong cơ sở dữ liệu",
+            "Chèn, xóa hoặc sửa đổi dữ liệu",
+            "Vượt qua các khâu xác thực người dùng",
+            "Chiếm quyền điều khiển hệ thống"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "b67eac37-5218-4f95-87af-86f0612d0996",
+        "question": "Một trong các biện pháp có thể sử dụng để phòng chống tấn công kiểu người đứng giữa là:",
+        "answers": [
+            "Sử dụng các hệ thống IPS/IDS",
+            "Sử dụng chứng chỉ số để xác thực thông tin nhận dạng các bên",
+            "Sử dụng mã hóa để đảm bảo tính bí mật các thông điệp truyền",
+            "Sử dụng tường lửa để ngăn chặn"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "ae458cf1-0e68-4698-b429-23cd6b11bce7",
+        "question": "Macro viruses là loại viruses thường lây nhiễm vào…",
+        "answers": [
+            "Các file tài liệu của bộ phần mềm Open Office",
+            "Các file tài liệu của bộ phần mềm Microsoft Exchange",
+            "Các file tài liệu của bộ phần mềm Microsoft SQL",
+            "Các file tài liệu của bộ phần mềm Microsoft Office"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "095127d3-3d0e-4668-ba1c-6cd0a1f58fc1",
+        "question": "Tấn công kiểu Social Engineering là dạng tấn công khai thác yếu tố nào sau đây trong hệ thống?",
+        "answers": [
+            "Máy trạm",
+            "Người dùng",
+            "Máy chủ",
+            "Hệ điều hành & ứng dụng"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "14c5841d-75ea-4d14-a01b-fa9b8cd72853",
+        "question": "Câu lệnh SQL nào tin tặc thường sử dụng trong tấn công chèn mã SQL để đánh cắp các thông tin trong cơ sở dữ liệu?",
+        "answers": [
+            "UNION INSERT",
+            "UNION SELECT",
+            "SELECT UNION",
+            "INSERT SELECT"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "ddfae956-8e53-412f-9b97-0c6454e923c0",
+        "question": "Phishing là một dạng của loại tấn công sử dụng...",
+        "answers": [
+            "Kỹ thuật chèn mã",
+            "Kỹ thuật giả mạo địa chỉ IP",
+            "Kỹ thuật gây tràn bộ đệm",
+            "Kỹ thuật xã hội"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "71115fb1-bf2d-4b7d-8a3f-479ad09b7071",
+        "question": "Các dạng phần mềm độc hại (malware) có khả năng tự nhân bản gồm:",
+        "answers": [
+            "Virus, zombie, spyware",
+            "Virus, trojan, zombie",
+            "Virus, worm, trojan",
+            "Virus, worm, zombie"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "198cd074-a4b1-4864-8304-7ce6523306b9",
+        "question": "Một trong các cách virus thường sử dụng để lây nhiễm vào các chương trình khác là:",
+        "answers": [
+            "Ẩn mã của virus",
+            "Thay thế các chương trình",
+            "Xáo trộn mã của virus",
+            "Sửa đổi các chương trình"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "5ee69d4f-d3a6-47e9-9da7-567d54ca88dd",
+        "question": "Trong tấn công DDoS phản chiếu hay gián tiếp, có sự tham gia của một số lượng lớn máy chủ trên mạng Internet không bị tin tặc chiếm quyền điều khiển. Các máy chủ này được gọi là...",
+        "answers": [
+            "Reflectors",
+            "Requesters",
+            "Forwarders",
+            "Injectors"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "2d619164-06a2-49ea-b332-89cc682ba324",
+        "question": "Mục đích chính của tấn công giả mạo địa chỉ IP là:",
+        "answers": [
+            "Để vượt qua các hệ thống IPS và IDS",
+            "Để vượt qua các hàng rào kiểm soát an ninh",
+            "Để đánh cắp các dữ liệu nhạy cảm trên máy trạm",
+            "Để đánh cắp các dữ liệu nhạy cảm trên máy chủ"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "426e53ef-c10d-472e-92c2-703d5b663dd6",
+        "question": "Trojan horses là dạng phần mềm độc hại thường giành quyền truy nhập vào các file của người dùng khai thác cơ chế điều khiển truy nhập...",
+        "answers": [
+            "МАС",
+            "Role-Based",
+            "Rule-Based",
+            "DAC"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "48558f76-eead-41df-afca-c784afa64021",
+        "question": "Một trong các biện pháp hiệu quả để phòng chống Macro virus :",
+        "answers": [
+            "Cấm tự động thực hiện macro trong Microsoft Exchange",
+            "Sử dụng tường lửa",
+            "Cấm tự động thực hiện macro trong Microsoft Office",
+            "Sử dụng IPS/IDS"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "16cd435e-ca15-4813-bf7a-e5f12ff7eb1c",
+        "question": "Đâu là một biện pháp phòng chống SYN Floods:",
+        "answers": [
+            "SYN Firewalls",
+            "SYN IDS",
+            "SYN Proxy",
+            "SYN Cache"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "cdcdcda5-029e-4154-afee-a8dca791bd1a",
+        "question": "Các zombie thường được tin tặc sử dụng để:",
+        "answers": [
+            "Đánh cắp dữ liệu từ máy chủ CSDL",
+            "Thực hiện tấn công DoS",
+            "Thực hiện tấn công tràn bộ đệm",
+            "Thực hiện tấn công DDoS"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "f882be0c-f8fe-4362-b222-e8fc6346138d",
+        "question": "Tấn công kiểu Social Engineering có thể cho phép tin tặc:",
+        "answers": [
+            "Đánh cắp toàn bộ dữ liệu trên máy chủ",
+            "Phá hỏng máy chủ",
+            "Đánh cắp thông tin nhạy cảm trong cơ sở dữ liệu máy chủ",
+            "Đánh cắp thông tin nhạy cảm của người dùng"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "f9bb64c2-fed1-4913-91a2-b5654b64539d",
+        "question": "Tấn công bằng mã độc có thể gồm:",
+        "answers": [
+            "Chèn mã XSS, CSRF",
+            "Chèn mã SQL",
+            "Tràn bộ đệm",
+            "SQLi, XSS, CSRF và Buffer overflow"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "1475ddeb-0ef9-4a64-b471-b8a8dcb2ac1d",
+        "question": "Tại sao việc sử dụng thủ tục cơ sở dữ liệu (Stored procedure) là một trong các biện pháp hiệu quả để ngăn chặn triệt để tấn công chèn mã SQL ?",
+        "answers": [
+            "Thủ tục cơ sở dữ liệu có khả năng cẩm chèn mã",
+            "Thủ tục cơ sở dữ liệu độc lập với các ứng dụng",
+            "Thủ tục cơ sở dữ liệu cho phép tách mã lệnh SQL khỏi dữ liệu người dùng",
+            "Thủ tục cơ sở dữ liệu lưu trong cơ sở dữ liệu và chạy nhanh hơn câu lệnh"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "ff405010-d7ce-4fa0-b827-6d610fb6a1f0",
+        "question": "Dạng tấn công chèn mã được tin tặc sử dụng phổ biến trên các trang web nhắm đến các cơ sở dữ liệu là:",
+        "answers": [
+            "Tấn công chèn mã SQL",
+            "Tấn công chèn mã XSS",
+            "Tấn công chèn mã CSRF",
+            "Tấn công chèn mã HTML"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "2f429a2d-34e6-4c7d-919a-0eb96af47ab8",
+        "question": "Đâu là một trong các biện pháp phòng chống tấn công khai thác lỗi tràn bộ đệm?",
+        "answers": [
+            "Sử dụng các thư viện lập trình an toàn //or sử dụng cơ chế cấm thực hiện mã trong dữ liệu (DEP)",
+            "Sử dụng tường lửa",
+            "Sử dụng các kỹ thuật mật mã",
+            "Sử dụng công nghệ xác thực mạnh"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "5f1f7718-d162-4b88-8840-f448bbfb31e2",
+        "question": "Để thực hiện tấn công Smurf, tin tặc phải giả mạo địa chỉ gói tin ICMP trong yêu cầu tấn công. Tin tặc sử dụng…",
+        "answers": [
+            "Địa chỉ máy nạn nhân làm địa đích của gói tin",
+            "Địa chỉ router làm địa đích của gói tin",
+            "Địa chỉ máy nạn nhân làm địa chỉ nguồn của gói tin",
+            "Địa chỉ router làm địa chỉ nguồn của gói tin"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "61183621-c1e0-4e15-a926-d9e61201977b",
+        "question": "Để thực hiện tấn công DDOS, tin tặc trước hết cần chiếm quyền điều khiển của một lượng lớn máy tính. Các máy tính bị chiếm quyền điều khiển thường được gọi là:",
+        "answers": [
+            "Worms",
+            "Viruses",
+            "Zombies",
+            "Trojans"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "b461ce2e-998e-4ebc-8f98-86d055c2dd83",
+        "question": "Điểm yếu là",
+        "answers": [
+            "Một lỗi hoặc một khiếm khuyết tồn tại trong hệ thống",
+            "Một lỗi khi xây dựng phần cứng máy tính",
+            "Một lỗi hoặc một khiếm khuyết tồn tại trong kết nối mạng",
+            "Là 1 khiếm khuyết của phần mềm"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "3f2092c2-c097-4217-8c51-6c61ae076f75",
+        "question": "Tìm phát biểu đúng",
+        "answers": [
+            "Lỗ hổng là bất kỳ điểm yếu nào trong hệ thống cho phép hacker có thể gây tác hại",
+            "Lỗ hổng là bất kỳ điểm yếu nào trong hệ thống cho phép mối đe dọa có thể gây tác hại",
+            "Lỗ hổng là bất kỳ điểm yếu nào trong mạng cho phép mối đe dọa có thể gây tác hại",
+            "Lỗ hổng là bất kỳ điều gì trong hệ thống cho phép mối đe dọa có thể gây tác hại"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "9317d6c7-a874-4e6d-bdd4-fa35af414281",
+        "question": "Đâu không phải là mối quan hệ giữa mối đe dọa và lỗ hổng",
+        "answers": [
+            "Các mối đe dọa thường khai thác một hoặc một số lỗ hổng đã biết để thực hiện các cuộc tấn công phá hoại",
+            "Không thể triệt tiêu được hết các lỗ hỏng, nhưng có thể giảm thiểu các mối đe dọa, qua đó giảm thiểu khả năng bị tận dụng để tấn công",
+            "Nếu tồn tại một lỗ hổng trong hệ thống, sẽ có khả năng một mối đe dọa trở thành hiện thực",
+            "Không thể triệt tiêu được hết các mối đe dọa, nhưng có thể giảm thiểu các lỗ hổng, qua đó giảm thiểu khả năng bị tận dụng để tấn công"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "34332e27-adc9-4959-839c-4f4edb184c5e",
+        "question": "Dạng tấn công liên quan đến việc nghe trôm trên đường truyền và chuyển hướng thông tin để sử dụng trái phép là",
+        "answers": [
+            "Interceptions",
+            "Fabrications",
+            "Interruptions",
+            "Modifications"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "422c7693-7d1a-4fd2-be86-3e76028ac035",
+        "question": "Đâu không phải là 1 kiểu tấn công thụ động",
+        "answers": [
+            "Không gây ra thay đổi trên hệ thống",
+            "Sửa đổi dữ liệu trong file",
+            "Nghe lén",
+            "Giám sát lưu lượng trên đường truyền"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "cfac0698-0450-4997-a8b6-23222cd72cd5",
+        "question": "Đâu không phải là 1 dạng tấn công",
+        "answers": [
+            "Tấn công từ chối dịch vụ",
+            "Tràn bộ đệm",
+            "Tấn công kiểu Social Engineering",
+            "Tấn công giả mạo địa chỉ"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "1eb87ffb-4286-4587-b1f7-ac2292111d6e",
+        "question": "Đâu là một nguyên nhân dẫn dến bị tấn công bằng mã độc",
+        "answers": [
+            "Xậm phạm vào bộ nhớ riêng cảu ứng dụng",
+            "Để mật khẩu ở dạng bản rõ",
+            "Dữ liệu đầu vào từ người dùng hoặc từ các nguồn khác không được kiểm tra hoặc kiểm tra không kỹ lưỡng",
+            "Sử dụng thủ tục bắt tay ba bước"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "87200f5d-5944-489e-9a1d-eb88f6c405df",
+        "question": "Đâu không phải là một biện pháp phòng chống dựa trên thiết lập quyền truy nhập người dùng phù hợp",
+        "answers": [
+            "Không sử dụng người dùng có quyền system admin hoặc database owner làm người dùng truy cập dữ liệu",
+            "Người dùng được quyền truy nhập vào mọi tác vụ của hệ thống",
+            "Chia nhóm người dùng, chỉ cấp quyền vừa đủ để truy cập các bảng biểu, thực hiện câu truy vấn và chạy các thủ tục",
+            "Tốt nhất, không cấp quyền thực hiện các câu truy vấn, cập nhật, sửa, xóa trực tiếp dữ liệu; Thủ tục hóa tất cả các câu lệnh và chỉ cấp quyền thực hiện thủ tục"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "0c7964b2-09f6-40ac-a2c9-9cba8cb0bfe9",
+        "question": "Trong tấn công DoS, việc gửi một lượng lớn yêu cầu gây cạn kiệt tài nguyên hệ thống hoặc băng thông đường truyền là loại tấn công nào",
+        "answers": [
+            "Flooding attacks",
+            "Logic attacks",
+            "SYN cache",
+            "Sniffing"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "857e945a-d61d-4301-91b1-5a7a5d23da63",
+        "question": "SYN floods là kỹ thuật gây … các gói tin mở kết nối TCP",
+        "answers": [
+            "Hỏng hóc",
+            "Dừng",
+            "Ngập lụt",
+            "Giả mạo"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "7d5aeeb3-f52d-47bd-9b22-3eb16f8eb3ff",
+        "question": "Đâu không phải là cách phòng chống SYN floods",
+        "answers": [
+            "Sử dụng kỹ thuật lọc",
+            "Giảm thời gian chờ",
+            "Sử dụng Firewall và proxy",
+            "Sử dụng mật khẩu mạnh"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "397fe0cc-b56b-4418-9377-df22f6100d7c",
+        "question": "Điểm khác biệt của Reflective DDoS so với DDoS là gì",
+        "answers": [
+            "Các máy tính do kẻ tấn công điều khiển (Slaves/Zombies) trực tiếp tấn công máy nạn nhân",
+            "Một lượng lớn yêu cầu giả mạo với địa chỉ nguồn là địa chỉ máy nạn nhân đến một số lớn các máy khác được gửi đi",
+            "Phạm vi tấn công lớn",
+            "Tạo một lượng lớn yêu cầu kết nối giả mạo"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "f666197e-e8b6-4b12-99a7-db392c410749",
+        "question": "Đâu không phải là 1 các tấn công kiểu Social Engineering",
+        "answers": [
+            "Kẻ tấn công bắt buộc người dùng truy cập vào đường dẫn giả mạo",
+            "Kẻ tấn công có thể giả danh làm người có vị trí cao hơn so với nạn nhân để có được sự tin tưởng",
+            "Kẻ tấn công có thể mạo nhận là người được ủy quyền của người có thẩm quyền để yêu cầu các nhân viên tiết lộ thông tin về cá nhân/tổ chức",
+            "Kẻ tấn công có thể lập trang web giả để đánh lừa người dùng cung cấp các thông tin cá nhân và thông tin tài khoản, thẻ tín dụng, …"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "46d69b81-f137-44db-bbc5-93f4b90d97b1",
+        "question": "Tìm phương án sai, Tấn công bằng bomb thư có thể thực hiện bằng",
+        "answers": [
+            "Có thể thực hiện được bằng kỹ thuật Social Engineering",
+            "Hoặc khai thác lỗi trong hệ thống gửi nhận email SMTP",
+            "Kẻ tấn công có thể lợi dụng các máy chủ email không được cấu hình tốt để gửi email cho chúng",
+            "Sử dụng phương pháp truyền tin TCP"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "34ffd419-b6bc-4db8-8cc7-254a7a1208f5",
+        "question": "Chọn phát biểu đúng về logic bomb",
+        "answers": [
+            "Thường được “nhúng” vào các chương trình đặt trưng và thường tự động “phát nổ” trong một số điều kiện cụ thể",
+            "Thường “có sẵn” trong các chương trình bình thường và thường tự động “phát nổ” trong một số điều kiện cụ thể",
+            "Thường được “nhúng” vào các chương trình bình thường",
+            "Thường được “nhúng” vào các chương trình bình thường và thường hẹn giờ để “phát nổ” trong một số điều kiện cụ thể"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "a83a8917-715a-4ec1-bc0b-7ff793971151",
+        "question": "Trojan horse là chương trình chứa …, thường giả danh những chương trình …, nhằm lừa người dùng kích hoạt chúng",
+        "answers": [
+            "Mã máy / Có ích",
+            "Mã độc / Có ích",
+            "Mã máy / Thông dụng",
+            "Mã độc / Thông dụng"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "9bdba358-6495-47b6-8049-b8b42dc7788e",
+        "question": "Trojan horse thường được sử dụng để",
+        "answers": [
+            "Thực thi gián tiếp các tác vụ, mà tác giả của chúng không thể thực hiện trực tiếp do không có quyền truy nhập",
+            "Thực thi gián tiếp các tác vụ, mà tác giả của chúng không thể thực hiện được do không thể truy nhập",
+            "Thực thi trực tiếp các tác vụ, mà tác giả của chúng không thể thực hiện gián tiếp dù đã được cấp quyền truy nhập",
+            "Thực thi trực tiếp các tác vụ"
+        ],
+        "part": 3,
+        "answer": 0
+    },
+    {
+        "uuid": "45070755-b1e9-473a-ad99-c20024507789",
+        "question": "Zombie là một chương trình được thiết kế để giành quyền … một máy tính có kết nối Internet, và sử dụng máy tính bị kiểm soát để … các hệ thống khác",
+        "answers": [
+            "Xâm nhập / Nghe lén",
+            "Xâm nhập / Tấn công",
+            "Kiểm soát / Tấn công",
+            "Kiểm soát / Nghe lén"
+        ],
+        "part": 3,
+        "answer": 2
+    },
+    {
+        "uuid": "d888de52-faef-4359-8ee9-81f5da8c3fec",
+        "question": "Tìm phát biểu sai trong các phát biểu sau về vòng đời của virus",
+        "answers": [
+            "Giai đoạn “nằm im”: Virus trong giai đoạn không được kích hoạt và có thể được kích hoạt nhờ một sự kiện nào đó",
+            "Giai đoạn phát tán: Virus kiểm soát những chương trình mà nó đã tiếp xúc",
+            "Giai đoạn kích hoạt: virus được kích hoạt để thực thi các tác vụ đã thiết được định sẵn. Virus cũng thường được kích hoạt dựa trên một sự kiện nào đó",
+            "Giai đoạn thực hiện: thực thi các tác vụ. Một số virus có thể vô hại, nhưng một số khác có thể xoá dữ liệu, chương trình..."
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "18c1e814-590d-4c9e-a0e8-d05c8db04b9d",
+        "question": "Đâu không phải một phương pháp lây lan của Worms",
+        "answers": [
+            "Lây lan qua thư điện tử: sử dụng email để gửi bản copy của sâu đến các máy khác",
+            "Lây lan thông qua khả năng thực thi từ xa",
+            "Lây lan thông qua khả năng log-in (đăng nhập) từ xa",
+            "Cần sự đồng ý từ người dùng để lây lan từ máy này sang máy khác"
+        ],
+        "part": 3,
+        "answer": 3
+    },
+    {
+        "uuid": "ee000a4b-74b0-45c3-ac12-f43ea9cba3aa",
+        "question": "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt?",
+        "answers": [
+            "Sâu",
+            "Ngựa trojan",
+            "Logic bomb",
+            "Stealth virus"
+        ],
+        "part": 3,
+        "answer": 1
+    },
+    {
+        "uuid": "18b2999c-44c6-491f-91af-0dd2560baf0f",
+        "question": "PGP đảm bảo tính bí mật thông điệp bằng cách sử dụng:",
+        "answers": [
+            "Mã hóa khóa bất đối xứng sử dụng khóa phiên",
+            "Mã hóa khóa đối xứng sử dụng khóa phiên",
+            "Mã hóa khóa bất đối xứng sử dụng khóa công khai",
+            "Mã hóa khóa đối xứng sử dụng khóa công khai"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "a6be7ce5-edb6-431f-88b6-b1ea19f62fa9",
+        "question": "Số lượng thao tác trong mỗi vòng xử lý của hàm băm MD5 là:",
+        "answers": [
+            "14",
+            "16",
+            "18",
+            "12"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "15fc492f-d1b0-4885-8c97-67783cac0781",
+        "question": "Trong các cặp khoá sau đây của hệ mật RSA với p=5 ; q=7 , cặp khóa nào có khả năng đúng nhất :",
+        "answers": [
+            "(e = 12 , d =11)",
+            "(e = 4 , d =11)",
+            "( e = 7 , d =23)",
+            "( e = 3 , d =18)"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "a1399c84-10d5-49c6-99d6-34a280de4c1d",
+        "question": "Thuật giải SHA-1 dùng để :",
+        "answers": [
+            "Tạo khoá đối xứng",
+            "Tạo chữ ký số",
+            "Tạo một giá trị băm có độ dài cố định 160 bit",
+            "Tạo một giá trị băm có độ dài cố định 256 bit"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "fb143f66-99aa-44e4-bb62-1c843a2dc1a3",
+        "question": "Một hệ mã hóa (cryptosystem) được cấu thành từ hai thành phần chính gồm:",
+        "answers": [
+            "Phương pháp mã hóa và chia khối",
+            "Giải thuật mã hóa và ký số",
+            "Phương pháp mã hóa và không gian khóa",
+            "Giải thuật mã hóa và giải mã"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "aad81fb4-76ef-4d08-b311-2ad5f8ed47db",
+        "question": "Đâu là một phương pháp mã hóa",
+        "answers": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "1da8390c-e6f4-4fc0-b07a-3a70453326b2",
+        "question": "Kích thước khối dữ liệu xử lý của giải thuật mã hóa AES là:",
+        "answers": [
+            "160 bit",
+            "64 bit",
+            "192 bit",
+            "128 bit"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "0f22fc9e-849c-4746-bf5a-c22e680d2f88",
+        "question": "Điểm khác nhau chính giữa hai loại hàm băm MDC và MAC là:",
+        "answers": [
+            "MDC là loại hàm băm không khóa, còn MAC là loại hàm băm có khóa",
+            "MDC có khả năng chống đụng độ cao hơn MAC",
+            "MDC an toàn hơn MAC",
+            "MAC an toàn hơn MDC"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "d44bbea3-557c-4309-a00e-4df5d1351b73",
+        "question": "Một trong các điểm yếu của các hệ mã hóa khóa công khai là:",
+        "answers": [
+            "Khó cài đặt trên thực tế",
+            "Khó khăn trong quản lý và phân phối khóa",
+            "Tốc độ chậm",
+            "Độ an toàn thấp"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "dcbd14cc-b0b0-4554-a864-b08e16fa9c6d",
+        "question": "Hai thuộc tính cơ bản quan trọng nhất của một hàm băm là:",
+        "answers": [
+            "Nén và một chiều",
+            "Dễ tính toán và có đầu ra cố định",
+            "Một chiều và đầu ra cố định",
+            "Nén và dễ tính toán"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "e5f91bd2-ead4-463f-a237-ad3e2a317a57",
+        "question": "Độ an toàn của hệ mật mã RSA dựa trên...",
+        "answers": [
+            "Độ phức tạp cao của giải thuật RSA",
+            "Chi phí tính toán lớn",
+            "Tính khó của việc phân tích số nguyên rất lớn",
+            "Khóa có kích thước lớn"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "d3e00990-54a9-492f-9018-a21aaff0f6cd",
+        "question": "Khi sinh cặp khóa RSA, các số nguyên tố p và q nên được chọn với kích thước…",
+        "answers": [
+            "p càng lớn càng tốt",
+            "Bằng khoảng một nửa kích thước của modulo n",
+            "Không có yêu cầu về kích thước của p và q",
+            "q càng lớn càng tốt"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "c1a848e8-7eac-4791-9cfc-940678fde54b",
+        "question": "Tìm phát biểu đúng về mã hóa khóa bất đối xứng (Asymmetric key cryptography):",
+        "answers": [
+            "An toàn hơn mã hóa khóa bí mật",
+            "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+            "Chỉ sử dụng kỹ thuật mã hóa khối",
+            "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "623f700f-c484-402c-bf4c-e3a5e2333cc8",
+        "question": "Tìm phát biểu đúng về mã hóa khóa đối xứng (Symmetric key cryptography):",
+        "answers": [
+            "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã",
+            "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+            "An toàn hơn mã hóa khóa công khai",
+            "Chỉ sử dụng kỹ thuật mã hóa khối"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "bac86100-716e-46d9-ae35-c7a7e14e241b",
+        "question": "Số lượng vòng lặp chính thực hiện xáo trộn dữ liệu theo hàm Feistel (F) trong giải thuật DES là:",
+        "answers": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "c3773cfd-cdf9-4103-9321-3cff08a5882f",
+        "question": "Các hộp thay thế s-box trong giải thuật DES có số bit đầu vào và đầu ra tương ứng là:",
+        "answers": [
+            "Vào 4 bit và ra 4 bit",
+            "Vào 6 bit và ra 6 bit",
+            "Vào 8 bit và ra 6 bit",
+            "Vào 6 bit và ra 4 bit"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "427b535c-2aeb-4b9a-9c3a-665443d638b3",
+        "question": "Một trong các ứng dụng phổ biến của các hàm băm là để tạo chuỗi...",
+        "answers": [
+            "CheckError",
+            "CheckTotal",
+            "CheckNum",
+            "Checksum"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "3addc21b-af4d-498e-a6be-6d05a8fb161f",
+        "question": "Trong quá trình xử lý thông điệp đầu vào tạo chuỗi băm, số lượng vòng xử lý của hàm băm SHA1 là:",
+        "answers": [
+            "80",
+            "90",
+            "60",
+            "70"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "bb92e735-3b40-4492-9ebe-13d4c99aad91",
+        "question": "Giải thuật mã hóa AES được thiết kế dựa trên…",
+        "answers": [
+            "mạng hoán vị-vernam",
+            "mạng xor-thay thế",
+            "mạng hoán vị-thay thế",
+            "mạng hoán vị-xor"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "59821829-41cd-4fcc-bdec-5fa6dc17428c",
+        "question": "Một trong các điểm yếu của các hệ mã hóa khóa đối xứng là:",
+        "answers": [
+            "Chi phí tính toán lớn",
+            "Khó khăn trong quản lý và phân phối khóa",
+            "Độ an toàn thấp",
+            "Khó khăn trong cài đặt và triển khai hệ thống"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "7cf10e45-5de0-42c9-918c-af67941ad84a",
+        "question": "Số vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã của giải thuật mã hóa AES với khóa 192 bit là:",
+        "answers": [
+            "10",
+            "12",
+            "16",
+            "14"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "05d80921-ece9-4712-8fb9-31355d2d9a02",
+        "question": "Một trong các ứng dụng phổ biến của các hàm băm một chiều là để...",
+        "answers": [
+            "Mã hóa thẻ tín dụng",
+            "Mã hóa địa chỉ",
+            "Mã hóa mật khẩu",
+            "Mã hóa tên tài khoản"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "a5b9dd45-9906-4f2a-8384-116c972a0f32",
+        "question": "PGP đảm bảo tính xác thực thông điệp bằng cách:",
+        "answers": [
+            "Mã hóa/giải mã thông điệp",
+            "Sử dụng hàm băm có khóa MAC",
+            "Sử dụng hàm băm không khóa MDC",
+            "Tạo và kiểm tra chữ ký số"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "b5bcaebe-acf3-47bf-8456-5f7ec087775e",
+        "question": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
+        "answers": [
+            "64 bit",
+            "128 bit",
+            "56 bit",
+            "48 bit"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "5c5396ac-3f49-40ff-a7a7-a802d5b7c623",
+        "question": "Trong mã hóa dòng (stream cipher), dữ liệu được xử lý theo…",
+        "answers": [
+            "Từng bit hoặc từng byte/ký tự",
+            "Từng bit",
+            "Từng byte",
+            "Từng chuỗi ký tự"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "21072a9e-e5df-43c6-a547-8080bfb5e527",
+        "question": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa công khai e và số Phi(n) là:",
+        "answers": [
+            "Phi(n) là modulo của e",
+            "e và Phi(n) không có quan hệ với nhau",
+            "e và Phi(n) là 2 số nguyên tố cùng nhau",
+            "Phi(n) là modulo nghịch đảo của e"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "f507c1b1-cf1b-4ed8-a35a-6c4d2f00a047",
+        "question": "Các giải thuật mã hóa khóa đối xứng thông dụng gồm:",
+        "answers": [
+            "DES, RSA, RC4",
+            "DES, AES, PGP",
+            "DES, 3-DES, RSA",
+            "DES, 3-DES, AES"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "6da1cbea-61e9-4fca-ae24-284ed0a769c7",
+        "question": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa riêng d và khóa công khai e là:",
+        "answers": [
+            "d và e là 2 số nguyên tố cùng nhau",
+            "d và e không có quan hệ với nhau",
+            "d là modulo nghịch đảo của e",
+            "d là modulo của e"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "f3d93759-255f-493c-b4e5-7492daa4dd10",
+        "question": "Giải thuật mã hóa AES vận hành dựa trên một ma trận 4x4, được gọi là...",
+        "answers": [
+            "State",
+            "States",
+            "Status",
+            "Stock"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "92c4d907-dac8-4a64-8d53-fa8a8c008c54",
+        "question": "Đâu là một ứng dụng của mã hóa?",
+        "answers": [
+            "PGG",
+            "GPP",
+            "PPG",
+            "PGP"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "54679add-e59f-4f8e-bcea-daa45276483e",
+        "question": "Phần xử lý chính của SHA1 làm việc trên một chuỗi được gọi là state. Kích thước của state là:",
+        "answers": [
+            "160 bit",
+            "170 bit",
+            "150 bit",
+            "180 bit"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "aef8958d-9133-4866-b292-594054be1289",
+        "question": "Trật tự các khâu xử lý trong các vòng lặp chính của giải thuật mã hóa AES là:",
+        "answers": [
+            "AddRoundKey, MixColumns, ShiftRows, SubBytes",
+            "SubBytes, ShiftRows, MixColumns, AddRoundKey",
+            "SubBytes, MixColumns, ShiftRows, AddRoundKey",
+            "AddRoundKey, MixColumns, SubBytes, ShiftRows"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "985c27eb-256e-49bc-87ed-6ad09a24c334",
+        "question": "Văn bản sau khi được mã hóa gọi là gì?",
+        "answers": [
+            "Chứng chỉ.",
+            "Mật mã đối xứng.",
+            "Khóa công khai.",
+            "Văn bản mã."
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "7f68f074-6a9f-4ddd-8f3a-6414bb5de8cc",
+        "question": "Đặc tính nào sau đây không thuộc chức năng bảo mật thông tin trong các hệ thống mật mã?",
+        "answers": [
+            "Hiệu quả.",
+            "Bảo mật.",
+            "Toàn vẹn.",
+            "Không chối từ."
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "62b947f0-b25f-4aae-9e64-45a2c2e71c5a",
+        "question": "Ở hệ mật mã nào người gửi và người nhận thông diệp sử dụng cùng một khóa mã khi mã hóa công khai và giải mã?",
+        "answers": [
+            "Không đối xứng.",
+            "Đối xứng.",
+            "RS",
+            "Difie-Hellman."
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "8a638c24-322b-4347-b698-754e41bf6e8d",
+        "question": "Chuẩn nào sau đây được chính phủ Mỹ sử dụng thay thế cho DES như là một chuẩn mã hóa dữ liệu?",
+        "answers": [
+            "DSA",
+            "ECC",
+            "3DES",
+            "AES"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "0e23e9e6-eb70-45aa-8abd-10cb4d290946",
+        "question": ". Ở hệ mật mã nào người gửi và người nhận thông điệp sử dụng các khóa khác nhau khi mã hóa và giải mã ?",
+        "answers": [
+            "Skipjack",
+            "Blowfish",
+            "Không đối xứng",
+            "Đối xứng"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "c31615ee-26e7-484f-b855-9b7d1f364381",
+        "question": "Khi giá trị hàm băm của hai thông điệp khác nhau có giá trị tương tự nhau, ta gọi hiện tượng này là gì ?",
+        "answers": [
+            "Tấn công vào ngày sinh",
+            "Xung đột",
+            "Chữ ký số",
+            "Khóa công khai"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "28c244fd-7329-4e42-81cd-3a820a9e3f39",
+        "question": "Nếu muốn xem một tài liệu “bảo mật”được mã hóa trên hệ mật bất đối xứng do người khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?",
+        "answers": [
+            "Khoá công khai của bạn",
+            "Khoá công khai của bên gửi",
+            "Khoá cá nhân của bên gửi",
+            "Khoá cá nhân của bạn"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "5de9cfd4-e646-4c88-ad3b-c63937fc186a",
+        "question": "Đâu là một phương pháp mã hóa:",
+        "answers": [
+            "Thay thế",
+            "Đổi chỗ/ hoán vị",
+            "Vernam",
+            "Tất cả các phương án trên"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "be3d786d-819f-48ee-8ee0-158b12a20db5",
+        "question": "Thuật giải MD5 cho ta một giá trị băm có độ dài :",
+        "answers": [
+            "156 bit",
+            "256 bit",
+            "128 bit",
+            "512 bit"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "43cb55f0-cbfa-4aa5-8ce3-464ca3b34575",
+        "question": "Các hệ mã hóa khóa công khai sử dụng một cặp khóa: public key và private key. Các yêu cầu đối với public key và private key là:",
+        "answers": [
+            "Cả public key và private key đều cần giữ bí mật",
+            "Có thể công khai public key và cần giữ bí mật private key",
+            "Có thể công khai private key và cần giữ bí mật public key",
+            "Có thể công khai public key nhưng phải đảm bảo tính xác thực và cần giữ bí mật private key"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "f8a52965-df3e-4733-a6bd-f4118f7f749f",
+        "question": "Kích thức khóa có thể của hệ mã hóa AES là:",
+        "answers": [
+            "128, 192 và 256 bit",
+            "64, 128 và 192 bit",
+            "128, 256 và 512 bit",
+            "128, 256 và 384 bit"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "9982321b-5201-45e5-a460-01e1f50607ed",
+        "question": "Số lượng vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã trong hệ mã hóa AES khóa 128 bit là:",
+        "answers": [
+            "14",
+            "10",
+            "16",
+            "12"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "94a4424c-d61c-49a5-acbb-7b699f405e76",
+        "question": "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc:",
+        "answers": [
+            "Trộn hai cột kề nhau của ma trận state",
+            "Mỗi cột của ma trận state được nhân với một đa thức",
+            "Trộn các cột tương ứng của ma trận state với khóa",
+            "Trộn các dòng tương ứng của ma trận state với khóa"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "23920950-4d04-48a3-bd59-c830adcc8d10",
+        "question": "Phát biểu nào sau đây đúng với kỹ thuật mã hóa khóa bí mật",
+        "answers": [
+            "Mã hóa khóa bí mật an toàn hơn mã hóa khóa công khai",
+            "Mã hóa khóa bí mật chỉ hoạt động theo chế độ mã hóa khối",
+            "Mã hóa khóa bí mật sử dụng một mã (key) cho cả quá trình mã hóa và giải mã",
+            "Mã hóa khóa bí mật có thuật toán đơn giản hơn mã hóa khóa công khai"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "4d614ba6-09f6-41d9-adc5-7e1275a95b06",
+        "question": "Ưu điểm của kỹ thuật mã hóa khóa công khai so với mã hóa khóa bí mật là:",
+        "answers": [
+            "Có độ an toàn cao hơn",
+            "Trao đổi khóa dễ dàng hơn",
+            "Chi phí tính toán thấp hơn",
+            "Quản lý dễ dàng hơn"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "844c4de2-1923-4c33-9f56-bc0d35156834",
+        "question": "Yêu cầu để đảm bảo sử dụng mã hóa đối xứng là",
+        "answers": [
+            "Có thuật toán encryption tốt,có một khóa bí mật được biết bởi người nhận/gửi và kênh truyền bí mật để phân phát key",
+            "Có một kênh truyền phù hợp và một khóa bí mật được biết bởi người nhận/gửi",
+            "Có thuật toán encryption tốt và có một khóa bí mật được biết bởi người nhận/gửi",
+            "Tất cả đều đúng"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "40f8a2d6-eb9b-4143-b6c0-89578eaca155",
+        "question": "Các thuật toán nào sau đây không phải là thuật toán mã hóa đối xứng",
+        "answers": [
+            "Triple–DES, RC4, RC5, Blowfish",
+            "Triple–DES, RC4, RC5, IDEA",
+            "RC4, RC5, IDEA, Blowfish",
+            "IDEA, Blowfish, AES, Elliptic Curve"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "3dd0c693-2830-4dc8-abb3-b5cfcebec80c",
+        "question": "Các phát biểu sau đây phát biểu nào đúng",
+        "answers": [
+            "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+            "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+            "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+            "Tất cả đều đúng"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "e36a1e9a-bf5f-4871-bb3b-9d6258715f1a",
+        "question": "Mã hóa nào sau đây là một tiêu chuẩn dùng để phát triển cho việc tạo ra thông điệp an toàn?",
+        "answers": [
+            "Data Encryption Standard",
+            "Digital Signature Standard",
+            "Secure Hash Algorithm",
+            "Chữ kí dữ liệu tiêu chuẩn"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "b0aec791-6c3c-4281-ac0c-14e3b3779844",
+        "question": "Các yếu tố ảnh hưởng đến quá trình mã hóa",
+        "answers": [
+            "Thuật toán mã hóa, giải mã, và tính an toàn của kênh truyền",
+            "Thời gian thực hiện mã hóa và giải mã",
+            "Thực hiện mã hóa khối, mở rộng số bit xử lý",
+            "Tất cả đều sai"
+        ],
+        "part": 4,
+        "answer": 0
+    },
+    {
+        "uuid": "bd93a04c-6263-453c-a951-3e5b3d215052",
+        "question": "MAC là một từ cấu tạo bằng những chữ đầu của một nhóm nào liên quan đến mật mã ?",
+        "answers": [
+            "Kiểm soát truy cập phương tiện (Media access control)",
+            "Kiểm soát truy cập bắt buộc (Mandatory access control)",
+            "Mã xác thực thông điệp (Message authentication code)",
+            "Các ủy ban đa tư vấn (Multiple advisory committees)"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "c74e7ad7-64f3-4a15-ad3c-18e0b75526f6",
+        "question": "Nội dung nào sau đây không cần sử dụng mật mã ?",
+        "answers": [
+            "Bảo mật",
+            "Xác thực",
+            "Toàn vẹn",
+            "Truy cập"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "e5b01aa2-41a5-4a25-9354-77f11d20d4ca",
+        "question": "Thuật giải MD5 dùng để :",
+        "answers": [
+            "Bảo mật một thông điệp",
+            "Xác thực một thông điệp",
+            "Phân phối khoá mật mã",
+            "Kiểm tra tính toàn vẹn dữ liệu"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "564aa749-ce1d-464c-99d7-74615371ba56",
+        "question": "Trong DES mỗi hàm chọn Si được dùng để :",
+        "answers": [
+            "Biến đổi khối dữ liệu mã 48 bit thành 32 bit",
+            "Biến đổi khối dữ liệu mã 6 bit thành 4 bit",
+            "Biến đổi khối dữ liệu mã 16 bit thành 4 bit",
+            "Biến đổi khối dữ liệu mã 32 bit thành 4 bit"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "b7727f4b-1541-4b78-b9fb-264f78de6157",
+        "question": "Hệ mật DES sử dụng khối khoá được tạo bởi :",
+        "answers": [
+            "56 bit ngẫu nhiên",
+            "64 bit ngẫu nhiên",
+            "128 bit ngẫu nhiên",
+            "56 bit ngẫu nhiên và 8 bit kiểm tra “Parity”"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "0605d534-82bb-421e-aee7-e405ad78ed3e",
+        "question": "Hệ mật DES xử lý từng khối “ plain text ” có độ dài :",
+        "answers": [
+            "56 bit",
+            "32 bit",
+            "64 bit",
+            "48 bit"
+        ],
+        "part": 4,
+        "answer": 2
+    },
+    {
+        "uuid": "07c6235b-040c-4e8f-bc90-3b3d1d1f2373",
+        "question": "Số lượng các khóa phụ (subkey) cần được tạo ra từ khóa chính trong giải thuật DES là:",
+        "answers": [
+            "18",
+            "16",
+            "14",
+            "12"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "395e4030-5690-4d3f-8165-d88c50c8595d",
+        "question": "Sử dụng nhiêu bit với DES để có hiệu quả?",
+        "answers": [
+            "56",
+            "64",
+            "32",
+            "16"
+        ],
+        "part": 4,
+        "answer": 1
+    },
+    {
+        "uuid": "bb5f34ab-8172-4c02-a107-5bc52552bc0c",
+        "question": "Thuật giải SHA là :",
+        "answers": [
+            "Hàm băm một chiều",
+            "Dùng trong thuật giải tạo chữ ký số",
+            "Cho giá trị băm 160 bit",
+            "Tất cả đều đúng"
+        ],
+        "part": 4,
+        "answer": 3
+    },
+    {
+        "uuid": "d3062287-aac9-4c79-a7b4-9538c7280221",
+        "question": "Quản trị văn phòng của bạn đang được huấn luyện để thực hiện sao lưu máy chủ. Phương pháp xác thực nào là lý tưởng đối với tình huống này ?",
+        "answers": [
+            "MAC",
+            "DAC",
+            "RBAC",
+            "Các mã thông báo bảo mật."
+        ],
+        "part": 5,
+        "answer": 0
+    },
+    {
+        "uuid": "6dc03396-3721-4d49-a527-689872a4a7d7",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập MAC:",
+        "answers": [
+            "MAC cấp quyền truy cập dựa trên tính nhạy cảm của những thông tin và chính sách quản trị",
+            "MAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất",
+            "MAC cho phép người tạo ra đối tượng có thể cấp quyền truy cập cho người dùng khác",
+            "MAC quản lý truyền quy cập chặt chẽ hơn các cơ chế khác"
+        ],
+        "part": 5,
+        "answer": 0
+    },
+    {
+        "uuid": "2ff26776-df33-4b63-8be1-0531d703f303",
+        "question": "Các loại khoá mật mã nào sau đây dễ bị crack nhất ?",
+        "answers": [
+            "128 bit",
+            "40 bit",
+            "256 bit",
+            "56 bit"
+        ],
+        "part": 5,
+        "answer": 1
+    },
+    {
+        "uuid": "c85d473c-5562-4860-a485-ec71fea260fa",
+        "question": "Nguyên tắc bảo mật tài nguyên của mô hình Bell-La Padula là:",
+        "answers": [
+            "Đọc lên và ghi lên",
+            "Đọc xuống và ghi xuống",
+            "Đọc xuống và ghi lên",
+            "Đọc lên và ghi xuống"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "ee151a70-a83d-448a-9f7c-3f5ea647b9dd",
+        "question": "Tính bảo mật của kỹ thuật điều khiển truy nhập sử dụng mật khẩu dựa trên:",
+        "answers": [
+            "Tần suất sử dụng mật khẩu",
+            "Kích thước của mật khẩu",
+            "Độ khó đoán và tuổi thọ của mật khẩu",
+            "Số loại ký tự dùng trong mật khẩu"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "74cded9b-3c8b-47d7-9cea-fd4b6d3061b1",
+        "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường có tiềm năng phát hiện các loại tấn công, xâm nhập mới là do:",
+        "answers": [
+            "Không yêu cầu biết trước thông tin về chúng",
+            "Đã có chữ ký của các tấn công, xâm nhập mới",
+            "Các tấn công, xâm nhập mới thường dễ nhận biết",
+            "Không yêu cầu xây dựng cơ sở dữ liệu các chữ ký"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "6ada8e12-6a5b-475b-94ae-0fe512d83969",
+        "question": "Một trong các điểm yếu làm giảm hiệu quả của phát hiện tấn công, xâm nhập dựa trên bất thường là:",
+        "answers": [
+            "Không có khả năng ngăn chặn tấn công, đột nhập",
+            "Không có khả năng phát hiện các cuộc tấn công Dos",
+            "Tỷ lệ cảnh báo sai cao",
+            "Không có khả năng phát hiện tấn công, xâm nhập mới"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "18afdf3b-3c0d-46e2-9e4e-bbb0c1668ace",
+        "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường dựa trên giá thiết:",
+        "answers": [
+            "Các hành vi tấn công, xâm nhập thường có quan hệ chặt chẽ với các hành vi bất thường",
+            "Các hành vi tấn công, xâm nhập gây ngắt quãng dịch vụ cung cấp cho người dùng",
+            "Các hành vi tấn công, xâm nhập có quan hệ chặt chẽ với các dịch vụ được cung cấp",
+            "Các hành vi tấn công, xâm nhập gây tổn hại nghiêm trọng cho hệ thống"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "b5fa6c0e-1f4d-476b-a47b-6599f03fffc7",
+        "question": "Ưu điểm của điều khiển truy nhập dựa trên các đặc điểm sinh trắc học là:",
+        "answers": [
+            "Bảo mật cao và độ ổn định cao",
+            "Bảo mật cao và chi phí thấp",
+            "Bảo mật cao và luôn đi cùng với chủ thể",
+            "Bảo mật cao và được hỗ trợ rộng rãi"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "9b189857-c465-4c89-9b78-627d0f607ba4",
+        "question": "Một ưu điểm của tường lửa có trạng thái so với tường lửa không trạng thái là:",
+        "answers": [
+            "Lọc nội dung gói tốt hơn",
+            "Nhận dạng được các dạng tấn công và các phần mềm độc hại",
+            "Chạy nhanh hơn",
+            "Phân biệt được các gói tin thuộc về các kết nối mạng khác nhau"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "a05c6fd2-3b2a-4b11-a465-ae47291db2e1",
+        "question": "Các phương pháp xử lý, phân tích dữ liệu và mô hình hoá trong phát hiện tấn công, xâm nhập dựa trên bất thường, gồm:",
+        "answers": [
+            "Thống kê, học máy, khai phá dữ liệu",
+            "Học máy, khai phá dữ liệu, agents",
+            "Thống kê, học máy, đồ thị",
+            "Thống kê, đối sánh chuỗi, đồ thị"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "4d5288b9-f406-469c-9b9a-f936e3bc60f3",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập dựa trên vai trò - RBAC:",
+        "answers": [
+            "RBAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng khác",
+            "RBAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất",
+            "RBAC cấp quyền truy nhập dựa trên vai trò của người dùng trong tổ chức",
+            "RBAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản trị"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "7bca7748-3491-46f1-9155-5d146fa59a09",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập DAC:",
+        "answers": [
+            "DAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng khác",
+            "DAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản trị",
+            "DAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất",
+            "DAC quản lý quyền truy nhập chặt chẽ hơn các cơ chế khác"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "fcf47ae0-83e1-4b8f-ae51-1fd6f5d7bf6c",
+        "question": "Đâu là một công cụ có khả năng rà quét các lỗ hổng chèn mã SQL cho các trang web?",
+        "answers": [
+            "nmap",
+            "Microsoft Baseline Security Analyzer",
+            "Nessus vulnerability scanner",
+            "Acunetix Web Vulnerability Scanner"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "0e8a9b89-1cdf-4408-b2fa-f9902c90d42c",
+        "question": "Danh sách điều khiển truy nhập ACL thực hiện việc quản lý quyền truy nhập đến các đối tượng cho người dùng bằng cách:",
+        "answers": [
+            "Các quyền truy nhập vào đối tượng cho mỗi người dùng được quản lý trong một ma trận",
+            "Các quyền truy nhập vào đối tượng cho mỗi người dùng được quản lý riêng rẽ",
+            "Mỗi người dùng được gán một danh sách các đối tượng kèm theo quyền truy nhập",
+            "Mỗi đối tượng được gán một danh sách người dùng kèm theo quyền truy nhập"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "77c22baf-dbd2-4c68-a145-1749d9733596",
+        "question": "Tường lửa không thể chống lại...",
+        "answers": [
+            "Các hiểm họa từ bên trong",
+            "Các hiểm họa từ bên ngoài",
+            "Tấn công giả mạo địa chỉ",
+            "Tấn công từ mạng Internet"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "2a97bcad-3507-44e4-a57d-8828543a570f",
+        "question": "Sự khác biệt chính giữa hệ thống ngăn chặn xâm nhập (IPS) và hệ thống phát hiện xâm nhập (IDS) là:",
+        "answers": [
+            "IPS phát hiện xâm nhập hiệu quả hơn",
+            "IPS có khả năng chủ động ngăn chặn xâm nhập",
+            "IDS phát hiện xâm nhập hiệu quả hơn",
+            "IDS có khả năng chủ động ngăn chặn xâm nhập"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "1730371e-57b0-4121-b7fc-b1b49392fc51",
+        "question": "Tường lửa lọc gói có thể lọc các thông tin nào trong gói tin?",
+        "answers": [
+            "Chỉ các thông tin trong header của gói tin",
+            "Chỉ các thông tin trong payload của gói tin",
+            "Chỉ lọc địa chỉ IP trong gói tin",
+            "Cả thông tin trong header và payload của gói tin"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "475e9c56-6861-4d43-86b5-a21ca04a9277",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập bắt buộc MAC:",
+        "answers": [
+            "MAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng khác",
+            "MAC quản lý quyền truy nhập chặt chẽ hơn các cơ chế khác",
+            "MAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản trị",
+            "MAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "75f304de-2d6e-41bf-9e38-38845d8dd3ea",
+        "question": "Đâu là một loại tường lửa?",
+        "answers": [
+            "Server gateway",
+            "Application server",
+            "Application-level gateway",
+            "Gateway server"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "1ab47d38-397c-446d-b57e-4b9238f82389",
+        "question": "Ví điện tử Paypal là một dạng...",
+        "answers": [
+            "Khóa mã (encrypted key)",
+            "The ATM",
+            "Thẻ bài (token)",
+            "Thẻ thông minh (smart card)"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "77b43dce-af0b-4134-9daa-517e6173309c",
+        "question": "Dạng xác thực sử dụng các thông tin nào dưới đây đảm bảo độ an toàn cao hơn?",
+        "answers": [
+            "Thẻ ATM và tên truy nhập",
+            "Tên truy nhập và số PIN",
+            "Thẻ ATM và số PIN",
+            "Tên truy nhập và mật khẩu"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "8940514a-235b-4636-93f1-797b890c03d5",
+        "question": "Một trong các dạng khóa mã (encrypted keys) được sử dụng rộng rãi trong điều khiển truy nhập là:",
+        "answers": [
+            "E-token",
+            "Chứng chỉ số khóa công khai",
+            "The ATM",
+            "Mobile-token"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "4eef048b-45cb-4196-b645-7ede6747e305",
+        "question": "Tại sao một hệ thống phát hiện xâm nhập dựa trên chữ ký không thể phát hiện các tấn công, xâm nhập mới?",
+        "answers": [
+            "Do chữ ký của chúng chưa tồn tại trong hệ thống",
+            "Do các tấn công, xâm nhập mới không có chữ ký",
+            "Do các tấn công, xâm nhập mới không gây ra bất thường",
+            "Do các tấn công, xâm nhập mới chỉ gây thiệt hại nhỏ"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "c871a8cd-9da3-4838-bd81-c0e6ca9eabc9",
+        "question": "Ưu điểm của thẻ bài (token) so với thẻ thông minh (smart card) trong điều khiển truy nhập là:",
+        "answers": [
+            "Có cơ chế xác thực mạnh hơn",
+            "Có cơ chế xác thực đa dạng hơn",
+            "Được sử dụng rộng rãi hơn",
+            "Có chi phí rẻ hơn"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "59c3e982-bdaa-468b-ae24-c88ac54e448a",
+        "question": "Phương pháp xác thực nào dưới đây có thể cung cấp khả năng xác thực có độ an toàn cao nhất?",
+        "answers": [
+            "Sử dụng Smartcard",
+            "Sử dụng vân tay",
+            "Sử dụng chứng chỉ số",
+            "Sử dụng mật khẩu"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "282ae304-2f32-4f7e-904f-67e434c7d3ae",
+        "question": "Đâu là các tính năng của kiểm soát truy nhập sử dụng tường lửa?",
+        "answers": [
+            "Kiểm soát dịch vụ và các phần mềm",
+            "Kiểm soát người dùng và tin tặc",
+            "Kiểm soát dịch vụ và hướng",
+            "Kiểm soát virus và các malware khác"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "182ac71d-7b4b-4edf-8b95-65d895a83b4e",
+        "question": "Ba cơ chế điều khiển truy nhập thông dụng gồm:",
+        "answers": [
+            "DAC, MAC và RRAC",
+            "DAC, BAC và RBAC",
+            "DAC, MAC và BAC",
+            "DAC, MAC và RBAC"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "e63dedea-1984-4f34-b906-ef03a6329a5e",
+        "question": "Mục đích chính của điều khiển truy nhập là để đảm bảo các thuộc tính an ninh của thông tin, hệ thống và các tài nguyên, gồm:",
+        "answers": [
+            "Tính bảo mật, tính toàn vẹn và tính xác thực",
+            "Tính bí mật, tính toàn vẹn và tính xác thực",
+            "Tính bảo mật, tính toàn vẹn và tính sẵn dùng",
+            "Tính bí mật, tính toàn vẹn và tính sẵn dùng"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "73a61cbd-93ef-47f2-9d73-cbfef7f81974",
+        "question": "Số lượng nhân tố (factor) xác thực sử dụng trong điều khiển truy nhập dựa trên thẻ thông minh là:",
+        "answers": [
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "d77dbdf0-82bc-4983-90e3-18f71fbae691",
+        "question": "Một nhiệm vụ chính của các hệ thống IDS/IPS là:",
+        "answers": [
+            "Truy tìm và tấn công ngược lại hệ thống của tin tặc",
+            "Giám sát lưu lượng mạng hoặc các hành vi trên một hệ thống để nhận dạng các dấu hiệu của tấn công, xâm nhập",
+            "Giám sát lưu lượng mạng nhận dạng các dấu hiệu của tấn công, xâm nhập",
+            "Giám sát các hành vi trên một hệ thống để nhận dạng các dấu hiệu của tấn công, xâm nhập"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "00f06ac9-04bb-469d-8ea8-9e1ae19606c3",
+        "question": "Hai dịch vụ quan trọng nhất của một hệ thống điều khiển truy nhập là:",
+        "answers": [
+            "Authentication và Authorization",
+            "Authenticator và Administrator",
+            "Administrator và Authorization",
+            "Authentication và Administrator"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "72ce0738-a6bc-49c7-88bd-d2ceecc7ce6e",
+        "question": "Tìm phát biểu đúng về phát hiện xâm nhập dựa trên chữ ký và phát hiện xâm nhập dựa trên bất thường:",
+        "answers": [
+            "Phát hiện xâm nhập dựa trên chữ ký thường có tỷ lệ phát hiện đúng cao hơn",
+            "Phát hiện xâm nhập dựa trên chữ ký thường có tỷ lệ phát hiện đúng thấp hơn",
+            "Phát hiện nhập nhập dựa trên bất thường có tỷ lệ phát hiện đúng cao hơn",
+            "2 cách phát hiện có tỉ lệ tương đương nhau"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "b3fa8c43-6b48-46f1-a1fb-e34f92616037",
+        "question": "Tìm phát biểu đúng về dịch vụ xác thực trong điều khiển truy nhập:",
+        "answers": [
+            "Là quá trình xác minh tính chân thực của thông tin nhận dạng người dùng cung cấp",
+            "Là quá trình xác minh nhận dạng của chủ thể",
+            "Là quá trình xác minh các thông tin nhận dạng của chủ thể yêu cầu truy nhập đối tượng",
+            "Là quá trình xác minh nhận dạng của người dùng"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "059c55a4-113c-4263-be8e-bacda4631f34",
+        "question": "Yếu tố nào cần được sử dụng kết hợp với một thẻ thông minh để xác thực?",
+        "answers": [
+            "PIN",
+            "Quét võng mạc",
+            "Mã hóa khóa",
+            "Thẻ nhớ"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "1250dfea-4eea-43a9-b5da-8b82e2344d8e",
+        "question": "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để login?",
+        "answers": [
+            "Đa yếu tố ( multi-factor)",
+            "Sinh trắc học",
+            "Thẻ thông minh",
+            "Keberos"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "8b513f3c-5db9-4d7f-b767-accd3e9c9f5e",
+        "question": "Một trong các nhược điểm chính của điều khiển truy nhập dựa trên các đặc điểm sinh trắc học là:",
+        "answers": [
+            "Không được hỗ trợ rộng rãi",
+            "Chi phí đắt",
+            "Khó sử dụng",
+            "Công nghệ phức tạp"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "83a9462c-2612-41ff-9792-7d43ad00bf1c",
+        "question": "Ưu điểm của mật khẩu một lần (OTP-One Time Password) so với mật khẩu truyền thống là:",
+        "answers": [
+            "Chống được tấn công từ điển",
+            "Chống được tấn công vét cạn",
+            "Chống được tấn công phá mã",
+            "Chống được tấn công phát lại"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "448b40b3-9242-487c-a12d-649722377a95",
+        "question": "Kỹ thuật tấn công SYN Floods khai thác điểm yếu trong khâu nào trong bộ giao thức TCP/IP?",
+        "answers": [
+            "Bắt tay 3 bước",
+            "Bắt tay 2 bước",
+            "Xác thực người dùng",
+            "Truyền dữ liệu"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "cdf42591-c0df-4481-81e7-0822c5dede94",
+        "question": "Một điểm yếu điển hình trong hệ thống điều khiển truy cập là việc sử dụng mật khẩu dễ đoán hoặc mật khẩu được lưu ở dạng rõ. Đây là điểm yếu thuộc khâu:",
+        "answers": [
+            "Quản trị",
+            "Xác thực",
+            "Trao quyền",
+            "Xác thực và Trao quyền"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "36b08919-cb08-488d-9ee7-de5dbdf49690",
+        "question": "Để đảm bảo an toàn cho hệ thống điều khiển truy cập, một trong các biện pháp phòng chống hiệu quả là:",
+        "answers": [
+            "Không mở các email của người lạ hoặc email quảng cáo",
+            "Không cho phép chạy các chương trình điều khiển từ xa",
+            "Không cài đặt và chạy các chương trình tải từ các nguồn không tin cậy",
+            "Không dùng tài khoản có quyền quản trị để chạy các chương trình ứng dụng"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "731568e7-f603-471f-a356-a1d411eedd36",
+        "question": "Điều khiển truy nhập dựa trên luật (Rule-based access control) được sử dụng phổ biến trong:",
+        "answers": [
+            "VPN",
+            "Firewall",
+            "SSL/TLS",
+            "Kerberos"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "310fe472-ed04-478c-9b2d-4ebf3428d644",
+        "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường dựa trên giả thiết:",
+        "answers": [
+            "Các hành vi tấn công, xâm nhập gây tổn hại nghiêm trọng cho hệ thống",
+            "Các hành vi tấn công, xâm nhập thường có quan hệ chặt chẽ với các hành vi bất thường",
+            "Các hành vi tấn công, xâm nhập có quan hệ chặt chẽ với các dịch vụ được cung cấp",
+            "Các hành vi tấn công, xâm nhập gây ngắt quãng dịch vụ cung cấp cho người dùng"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "972de77a-073c-46cb-9174-f2769f938ea0",
+        "question": "Các hệ thống phát hiện xâm nhập có thể thu thập dữ liệu đầu vào từ…",
+        "answers": [
+            "Các host",
+            "Mạng và các host",
+            "Mạng",
+            "Các router"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "58316c83-ff9e-4887-9e09-d42eb14b6eda",
+        "question": "Một hệ thống điều khiển truy nhập có thể được cấu thành từ các dịch vụ nào sau đây:",
+        "answers": [
+            "Xác thực, đăng nhập và trao quyền",
+            "Xác thực, trao quyền và quản trị",
+            "Xác thực, đăng nhập và kiểm toán (auditing)",
+            "Xác thực, trao quyền và kiểm toán (auditing)"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "b1bcded8-a03a-432d-9dd4-5a66110a02d9",
+        "question": "Sau khi một user đã được định danh (identifed), điều gì cần phải làm trước khi họ log vào một mạng máy tính ?",
+        "answers": [
+            "Xác thực với mật khẩu",
+            "Họ phải nhập user ID đã được mã hóa",
+            "Được phép truy cập với mức ưu tiên được thiết lập",
+            "Người quản trị phải enable để gõ vào"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "d6dfc02d-b16f-427b-b74d-0460219b8109",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập DAC:",
+        "answers": [
+            "DAC cho phép người tạo ra đối tượng có thể cấp quyền quy cập cho người dùng khác",
+            "DAC cấp quyền truy cập dựa trên tính nhạy cảm của thông tin và chính sách quản trị",
+            "DAC quản lý quyền truy cập chặt chẽ hơn các cơ chế khác",
+            "DAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "fb7fcf3d-bb84-4ba0-b233-4ec3b1a093ef",
+        "question": "Các hệ điều hành Microsoft Windows và Linux sử dụng các mô hình điều khiển truy cập nào dưới đây?",
+        "answers": [
+            "DAC và Role-BAC",
+            "DAC và MAC",
+            "MAC và Role-BAC",
+            "MAC và Rule-BAC"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "d85dcaf7-6854-410c-8de8-e9b7aef38f0d",
+        "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập RBAC:",
+        "answers": [
+            "RBAC cho phép người tạo ra đối tượng có thể cấp quyền truy cập cho người dùng khác",
+            "RBAC cấp quyền truy cập dựa trên tính nhạy cảm của thông tin và chính sách quản trị",
+            "RBAC cấp quyền truy cập dựa trên vai trò của người dùng trong tổ chức",
+            "RBAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "0f8a295b-35dd-4f9d-a7cc-e9a71755caad",
+        "question": "Cho biết câu nào đúng trong các câu sau",
+        "answers": [
+            "Tất cả Firewall đều có chung thuộc tính là cho phép phân biệt hay đối xử khả năng từ chối hay truy nhập dựa vào địa chỉ nguồn",
+            "Chức năng chính của Firewall là kiểm sóat luồng thông tin giữa mạng cần bảo vệ và Internet thông qua các chính sách truy nhập đã được thiết lập",
+            "Hệ thống Firewall thường bao gồm cả phần cứng lẫn phần mềm",
+            "Tất cả đều đúng"
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "e26d3e2e-09ab-4166-af49-3debf2876a7f",
+        "question": "Đối với Firewall lọc gói, hình thức tấn công nào sau đây được thực hiện",
+        "answers": [
+            "Nhái địa chỉ IP, tấn công giữa, tấn công biên",
+            "Nhái địa chỉ IP, tấn công đường đi nguồn, tấn công từng mẫu nhỏ",
+            "Nhái địa chỉ IP, tấn công vượt firewall,tấn công từng mẫu nhỏ",
+            "Nhái địa chỉ IP, tấn công vượt firewall, tấn công đường đi nguồn"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "e2d8b7ce-3265-4fba-8cd8-6a5f7cfb72fe",
+        "question": "Những chữ đầu của nhóm từ ACL là tên viết tắt của:",
+        "answers": [
+            "Arbitrary Code Language",
+            "Access Control Library",
+            "Access Control List",
+            "Allowed Computer List"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "bdb2f98d-5201-46cd-b495-3d47d8b0693e",
+        "question": "Nên cài mức truy cập mặc định là mức nào sau đây?",
+        "answers": [
+            "Full access",
+            "No access",
+            "Read access",
+            "Write access"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "0da1049c-132c-4d92-87d0-8c80b88092d4",
+        "question": "Sau khi một user được định danh và xác thực hệ thống, để cho phép user sử dụng tài nguyên bạn phải thực hiện điều gì?",
+        "answers": [
+            "Phải được ủy quyền",
+            "Được truyền lại",
+            "Được mã hóa",
+            "Được enable"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "d49aa972-cf36-4063-9806-da6bea4d4200",
+        "question": "Bộ lọc địa chỉ MAC được định nghĩa như :",
+        "answers": [
+            "Được phép truy cập đến một địa chỉ MAC nhất định.",
+            "Ngăn chặn truy cập từ một địa chỉ MAC nhất định.",
+            "Mã hóa địa chỉ MAC của thiết bị không dây.",
+            "Tường lửa cá nhân"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "9c471e58-69a9-4d34-bac4-8e6519cfce08",
+        "question": "Các mức độ nhạy cảm của thông tin được chia từ cao xuống thấp đối với an ninh quốc gia là:",
+        "answers": [
+            "Tối mật (Top Secret - T), Tuyệt mật (Secret - S), Mật (Confidential - C), Không phân loại (Unclassified - U).",
+            "Tuyệt mật (Secret - S), Tối mật (Top Secret - T), Mật (Confidential - C), Không phân loại (Unclassified - U).",
+            "Không phân loại (Unclassified - U), Mật (Confidential - C), Tối mật (Top Secret - T), Tuyệt mật (Secret - S).",
+            "Không phân loại (Unclassified - U), Mật (Confidential - C), Tuyệt mật (Secret - S), Tối mật (Top Secret - T)."
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "1440aacc-7d2b-4382-8beb-e6ac9f9ad257",
+        "question": "Đặc tính nào của các thiết bị mạng như router hay switch, cho phép điều khiển truy cập dữ liệu trên mạng ?",
+        "answers": [
+            "Giao thức DNS",
+            "Cập nhật vi chương trình ( Firmware)",
+            "Tường lửa",
+            "Danh sách điều khiển truy cập (ACL)."
+        ],
+        "part": 6,
+        "answer": 3
+    },
+    {
+        "uuid": "95ba4ea6-1aae-4380-963f-623fa8b76def",
+        "question": "Yếu tố nào cần được sử dụng kết hợp với một thẻ thông minh để xác thực ?",
+        "answers": [
+            "PIN",
+            "Quét võng mạc",
+            "Mã hóa khóa",
+            "Thẻ nhớ"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "82c755e6-1a01-42bf-9d75-e3c760942d3e",
+        "question": "Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây?",
+        "answers": [
+            "Kiểm định",
+            "Xác thực",
+            "Kiểm soát truy cập",
+            "Bảo mật dữ liệu"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "6a3034ea-a4f5-4d3c-b110-45707644b898",
+        "question": "Yếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?",
+        "answers": [
+            "Đăng nhập hệ thống ( System logs)",
+            "Phần mềm antivirus",
+            "Kerberos",
+            "Sinh trắc học"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "5cc2a713-9fc6-48a7-8eda-1863feec70d5",
+        "question": "Điểm khác nhau chính giữa các hệ thống ngăn chặn đột nhập (IPS) và phát hiện đột nhập (IDS) là:",
+        "answers": [
+            "IPS có khả năng phát hiện và ngăn chặn tấn công tốt hơn IDS",
+            "IDS có khả năng phát hiện và ngăn chặn tấn công tốt hơn IPS",
+            "IPS có khả năng chủ động ngăn chặn tấn công so với IDS",
+            "IPS có chi phí lớn hơn IDS"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "af603d74-192b-4953-8c48-f542988c6137",
+        "question": "Để đánh giá điểm mạnh của hệ thống IDS người ta dựa vào các yếu tố sau :",
+        "answers": [
+            "Khởi sự, Cách thực hiện, biểu hiện mà nó ghi nhận",
+            "Khởi sự, giám sát vị trí, những đặc trưng ghép nối hoặc tích hợp",
+            "Cách thực hiện, biểu hiện mà nó ghi nhận, những đặc trưng ghép nối hoặc tích hợp",
+            "Tất cả đều đúng"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "13792c79-d4ff-4035-bc30-d9ae56c3441f",
+        "question": "Khi thực hiện triển khai HIDS khó khăn gặp là",
+        "answers": [
+            "Chi phí lắp đặt cao, khó bảo quản và duy trì",
+            "Giới hạn tầm nhìn mạng, phải xử lí với nhiều hệ điều hành khác trên mạng.",
+            "Thường xuyên phải cập nhật bảng vá lỗi",
+            "Thường xuyên cài đặt lại phải khi hệ thống mạng thay đổi hệ điều hành"
+        ],
+        "part": 6,
+        "answer": 1
+    },
+    {
+        "uuid": "84f231d4-c083-4cc1-bb5b-20b3495da6de",
+        "question": "Bộ lọc gói thực hiện chức năng nào ?",
+        "answers": [
+            "Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài",
+            "Cho phép tất cả các gói rời mạng",
+            "Cho phép tất cả các gói đi vào mạng",
+            "Loại trừ sự xung đột trong mạng"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "20918560-ff68-49d3-ab68-2e23627e8211",
+        "question": "Hệ thống nào được cài đặt trên Host để cung cấp một tính năng IDS ?",
+        "answers": [
+            "Network sniffer",
+            "N-IDS (Network-based IDS)",
+            "H-IDS (Host-based IDS)",
+            "VPN"
+        ],
+        "part": 6,
+        "answer": 2
+    },
+    {
+        "uuid": "7e85de7b-6ae9-4453-9689-ef912966ffa3",
+        "question": "Tổ chức chính cấp phát chứng chỉ được gọi là :",
+        "answers": [
+            "CA",
+            "RA",
+            "LRA",
+            "CRL"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "d47c9082-3808-442f-add8-eed735da4c30",
+        "question": "Các phát biểu sau đây phát biểu là là đúng nhất:",
+        "answers": [
+            "Firewall là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn công",
+            "Firewall là một điểm chặn của trong quá trình điều khiển và giám sát.",
+            "Firewall là một phần mềm hoặc phần cứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+            "Firewall là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép"
+        ],
+        "part": 6,
+        "answer": 0
+    },
+    {
+        "uuid": "2a09234a-2dcb-4ff3-b9db-278e878f8cf8",
+        "question": "Sâu SQL Slammer được phát hiện vào năm nào?",
+        "answers": [
+            "2002",
+            "1997",
+            "2007",
+            "2003"
+        ],
+        "part": 7,
+        "answer": 3
+    },
+    {
+        "uuid": "f5bd5d67-44e1-4512-a6d8-ed6f9d74db0c",
+        "question": "Các yêu cầu cơ bản trong đảm bảo an toàn thông tin và an toàn hệ thống thông tin gồm:",
+        "answers": [
+            "Bảo mật, Toàn vẹn và Khả dụng",
+            "Bảo mật, Toàn vẹn và Sẵn dùng",
+            "Bí mật, Toàn vẹn và Sẵn dùng",
+            "Bí mật, Toàn vẹn và không chối bỏ"
+        ],
+        "part": 7,
+        "answer": 2
+    },
+    {
+        "uuid": "e4d8c55e-8813-49e2-898d-1a7c18d8e813",
+        "question": "Đâu là một kỹ thuật tấn công Dos?",
+        "answers": [
+            "UDP Ping",
+            "DNS Cache Poisoning",
+            "Smurf",
+            "DNS spoofing"
+        ],
+        "part": 7,
+        "answer": 2
+    },
+    {
+        "uuid": "4b07178b-703a-4e47-8277-dc2431f1b8d9",
+        "question": "Trong tấn công DDoS phản chiếu hay gián tiếp, có sự tham gia của một số lượng lớn máy chủ trên mạng Internet không bị tin tặc chiếm quyền điều khiển. Các máy chủ này được gọi là…",
+        "answers": [
+            "Reflectors",
+            "Injectors",
+            "Requesters",
+            "Forwarders"
+        ],
+        "part": 7,
+        "answer": 0
+    },
+    {
+        "uuid": "878292cc-f2a7-4263-a20f-9aad8ca549a4",
+        "question": "Một trong các biện pháp có thể sử dụng để phòng chống tấn công người đứng giữa là:",
+        "answers": [
+            "Sử dụng các hệ thống IPS/IDS",
+            "Sử dụng chứng chỉ số để xác thực thông tin nhận dạng các bên",
+            "Sử dụng mã hóa để đảm bảo tính bí mật các thông điệp truyền",
+            "Sử dụng tường lửa để ngăn chặn"
+        ],
+        "part": 7,
+        "answer": 1
+    },
+    {
+        "uuid": "e74c5faf-ff41-4a4d-9f7a-f952f8bafed2",
+        "question": "Các thành phần của ATTT gồm:",
+        "answers": [
+            "An toàn máy tính, An toàn dữ liệu, An ninh mạng, Quản lý ATTT",
+            "An toàn máy tính, An ninh mạng, Quản lý ATTT và chính sách ATTT",
+            "An toàn máy tính và dữ liệu, An ninh mạng, quản lý ATTT và chính sách ATTT",
+            "An toàn máy tính, an ninh mạng, quản lý rủi ro ATTT và chính sách ATTT"
+        ],
+        "part": 7,
+        "answer": 2
+    },
+    {
+        "uuid": "3eae65ef-55fc-44bb-ba71-397f13983252",
+        "question": "Đảm bảo thông tin thường được thực hiện bằng cách",
+        "answers": [
+            "Sử dụng kỹ thuật tạo dự phòng ra đĩa cứng",
+            "Sử dụng kỹ thuật tạo dự phòng ngoại vi",
+            "Sử dụng kỹ thuật tạo dự phòng cục bộ",
+            "Sử dụng kỹ thuật tạo dự phòng ra băng từ"
+        ],
+        "part": 7,
+        "answer": 1
+    },
+    {
+        "uuid": "ac9a24f1-41b6-4c53-a181-293129904d7e",
+        "question": "Giao thức SSL sử dụng giao thức con SSL Handshake để khởi tạo phiên làm việc. SSL Handshake thực hiện việc trao đổi các khóa phiên dùng cho phiên làm việc dựa trên:",
+        "answers": [
+            "Chữ ký số",
+            "Mã hóa khóa bí mật",
+            "Mã hóa khóa công khai",
+            "Chứng chỉ số"
+        ],
+        "part": 8,
+        "answer": 2
+    },
+    {
+        "uuid": "a0a22a10-ddf9-4270-885c-3ea00650103a",
+        "question": "Các thuộc tính cơ bản của chứng chỉ số khóa công khai (Public key digital certificate) gồm:",
+        "answers": [
+            "Số nhận dạng, khóa riêng của chủ thể, chữ ký của nhà cung cấp CA",
+            "Khóa công khai của chủ thể, thông tin địa chỉ chủ thể, thuật toán chữ ký sử dụng",
+            "Số nhận dạng, khóa riêng của chủ thể, thông tin định danh chủ thể",
+            "Khóa công khai của chủ thể, thông tin định danh chủ thể, chữ ký của nhà cung cấp (CA)"
+        ],
+        "part": 8,
+        "answer": 3
+    },
+    {
+        "uuid": "792a21ae-18a4-4ab6-92c5-df71f10b11bd",
+        "question": "Đây là một phương pháp mã hóa",
+        "answers": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+        ],
+        "part": 8,
+        "answer": 3
+    },
+    {
+        "uuid": "e7a24dae-6fe8-4e18-8e6e-01e4b78c509d",
+        "question": "Chữ ký số (sử dụng riêng) thường được sử dụng để đảm bảo thuộc tính nào sau đây của thông điệp truyền đưa:",
+        "answers": [
+            "Tính bí mật",
+            "Tính không chối bỏ",
+            "Tính sẵn dùng",
+            "Tính toàn vẹn"
+        ],
+        "part": 8,
+        "answer": 3
+    },
+    {
+        "uuid": "523e9614-01ea-47f1-b002-f64d459fbe5b",
+        "question": "Trong hệ chữ ký số RSA, việc tạo chữ ký số cho một thông điệp cần sử dụng một khóa. Khóa đó là:",
+        "answers": [
+            "Khóa riêng của người nhận",
+            "Khóa công khai của người nhận",
+            "Khóa công khai của người gửi",
+            "Khóa riêng của người gửi"
+        ],
+        "part": 8,
+        "answer": 3
+    },
+    {
+        "uuid": "ab9786f9-544b-4b5e-b0fe-e8f100f54de2",
+        "question": "Phát biểu nào sau đây về chữ ký số là chính xác:",
+        "answers": [
+            "Chữ ký số là một chuỗi dữ liệu được tạo ra bằng cách mã hóa thông điệp sử dụng khóa bí mật",
+            "Chữ ký số là một chuỗi dữ liệu liên kết với một thông điệp và thực thể tạo ra thông điệp",
+            "Chữ ký số được sử dụng để đảm bảo tính bí mật và toàn vẹn thông điệp",
+            "Chữ ký số được sử dụng để đảm bảo tính bí mật, toàn vẹn và xác thực thông điệp"
+        ],
+        "part": 8,
+        "answer": 1
+    },
+    {
+        "uuid": "871a2a6c-eaf7-4249-97ce-50967b09b7ca",
+        "question": "Sử dụng kết hợp chứng chỉ số khóa công khai và chữ ký số có thể đảm bảo:",
+        "answers": [
+            "Xác thực thực thể và toàn vẹn thông tin truyền",
+            "Xác thực thực thể và bí mật thông tin truyền",
+            "Bí mật và xác thực nguồn gốc thông tin truyền",
+            "Bí mật và toàn vẹn thông tin truyền"
+        ],
+        "part": 8,
+        "answer": 0
+    },
+    {
+        "uuid": "877f36a7-9b26-4af9-a06b-a8ef4a2a89c1",
+        "question": "Các hộp thay thế s-box trong giải thuật DES có số bít đầu vào và đầu ra tương ứng là:",
+        "answers": [
+            "Vào 4 bít và ra 4 bít",
+            "Vào 6 bít và ra 6 bít",
+            "Vào 8 bít và ra 6 bít",
+            "Vào 6 bít và ra 4 bít"
+        ],
+        "part": 8,
+        "answer": 3
+    },
+    {
+        "uuid": "34142331-4684-4fee-8d39-871ad4d5d781",
+        "question": "Số vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã của giải thuật mã hóa AES với khóa 192 bít là:",
+        "answers": [
+            "10",
+            "12",
+            "16",
+            "14"
+        ],
+        "part": 8,
+        "answer": 1
+    },
+    {
+        "uuid": "0ff6f2f5-b85b-46a9-bf42-5002c1311413",
+        "question": "Giao thức SSL sử dụng giao thức con SSL Handshake để khởi tạo phiên làm việc. SSL Handshake thực hiện việc xác thực thực thể dựa trên:",
+        "answers": [
+            "Chứng chỉ số khóa công khai",
+            "Mã hóa khóa bí mật",
+            "Mã hóa khóa công khai",
+            "Chữ ký số"
+        ],
+        "part": 8,
+        "answer": 0
+    },
+    {
+        "uuid": "0c2f234d-8cab-48b9-b38a-40a8656715fd",
+        "question": "Các máy tính ma/máy tính bị chiếm quyền điều khiển thường được tin tặc sử dụng để ..",
+        "answers": [
+            "Gửi các yêu cầu chèn mã",
+            "Gửi thư rác, thư quảng cáo",
+            "Thực hiện tấn công tràn bộ đệm",
+            "Đánh cắp dữ liệu từ máy chủ CSDL"
+        ],
+        "part": 8,
+        "answer": 1
+    },
+    {
+        "uuid": "c9b86647-3ba3-455d-b8c8-a54b3649e639",
+        "question": "Các zombie thường được tin tặc sử dụng để…",
+        "answers": [
+            "Thực hiện tấn công DoS",
+            "Thực hiện tấn công tràn bộ đệm",
+            "Thực hiện tấn công DDoS",
+            "Đánh cắp dữ liệu từ máy chủ cơ sở dữ liệu"
+        ],
+        "part": 8,
+        "answer": 2
+    },
+    {
+        "uuid": "8eae5f6a-752a-411c-999d-526df17bd181",
+        "question": "Không nên sử dụng nhiều hơn 1 phần mềm quét virus chạy ở chế độ quét theo thời gian thực trên một máy tính vì:",
+        "answers": [
+            "Các phần mềm quét virus xung đột với nhau",
+            "Các phần mềm quét virus không thể hoạt động",
+            "Các phần mềm quét virus chiếm nhiều tài nguyên",
+            "Các phần mềm quét virus tấn công lẫn nhau"
+        ],
+        "part": 9,
+        "answer": 0
+    },
+    {
+        "uuid": "7f9e7a62-4d7b-4568-8471-b05178e7b373",
+        "question": "Tấn công từ chối dịch vụ (Dos - Denial of Service Attacks) là dạng tấn công có khả năng…",
+        "answers": [
+            "Cản trở người dùng hợp pháp truy nhập các file dữ liệu của hệ thống",
+            "Cản trở người dùng hợp pháp truy nhập các tài nguyên hệ thống",
+            "Đánh cắp dữ liệu trong hệ thống",
+            "Gây hư hỏng phần cứng máy chủ"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "1b7633f3-0bc8-4c2a-9765-6c5cb0710b61",
+        "question": "Pharming là kiểu tấn công vào...",
+        "answers": [
+            "Máy khách/trình duyệt web",
+            "Máy chủ và máy khách web",
+            "Máy chủ web.",
+            "Máy chủ cơ sở dữ liệu của trang web"
+        ],
+        "part": 10,
+        "answer": 0
+    },
+    {
+        "uuid": "d339c07d-2dc0-4828-8da0-0aa326edcb59",
+        "question": "Đâu là một kỹ thuật tấn công DoS?",
+        "answers": [
+            "DNS spoofing",
+            "UDP Ping",
+            "Smurf",
+            "DNS Cache Poisoning"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "092e301c-b33c-47ed-ae77-ff19deb7d05e",
+        "question": "Kỹ thuật tấn công Smurf sử dụng giao thức ICMP và cơ chế gửi…",
+        "answers": [
+            "Multicast",
+            "Anycast",
+            "Broadcast",
+            "Unicast"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "de97ff92-225c-4f30-8112-b72da1beb0c2",
+        "question": "Trong dạng tấn công vào mật khẩu dựa trên từ điển, tin tặc đánh cấp mật khẩu của người dùng bằng cách:",
+        "answers": [
+            "vét cạn các mật khẩu có thể có",
+            "Tìm mật khẩu trong từ điển các mật khẩu",
+            "Lắng nghe trên đường truyền để đánh cấp mật khẩu",
+            "Thử các từ có tần suất sử dụng cao làm mật khẩu trong từ điển"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "ad3deb38-cf5a-4853-989f-60801a7bec59",
+        "question": "Mật khẩu an toàn trong thời điểm hiện tại là mật khẩu có :",
+        "answers": [
+            "Khả năng chống tấn công phát lại và chứa các ký tự từ nhiều dạng ký tự",
+            "Chứa các ký tự từ nhiều dạng ký tự",
+            "Độ dài lớn hơn hoặc bằng 8 ký tự",
+            "Độ dài từ 8 ký tự trở lên , gồm chữ cái hoa , thường , chữ số và ký tự đặc biệt"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "6f94153c-1c08-43f1-8c27-177209dc71b0",
+        "question": "Tấn công kiểu Social Engineering có thể cho phép tin tặc :",
+        "answers": [
+            "Phá hỏng máy chủ",
+            "Đánh cắp toàn bộ cơ sở dữ liệu trên máy chủ",
+            "Đánh cắp thông tin nhạy cảm của người dùng",
+            "Đánh cắp thông tin nhạy cảm trong cơ sở dữ liệu trên máy chủ"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "2a8008b3-45fe-424f-b427-38484072c084",
+        "question": "Trojan horses là dạng phần mềm độc hại thường giành quyền truy nhập vào các file của người dùng khai thác Cơ chỉ điều khiển truy nhập.",
+        "answers": [
+            "Rule - Based",
+            "DAC",
+            "MAC",
+            "Role - Based"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "129bd5b3-a06a-45cb-9c97-97f393eca5b4",
+        "question": "Tại sao việc sử dụng thủ tục cơ sở dữ liệu (Stored procedure ) là một trong các biện pháp hiệu quả để ngăn chặn triệt để tấn công chèn mã SQL ?",
+        "answers": [
+            "Thủ tục cơ sở dữ liệu có khả năng cẩm chèn mã",
+            "Thủ tục cơ sở dữ liệu độc lập với các ứng dụng",
+            "Thủ tục cơ sở dữ liệu cho phép tách mã lệnh SQL khỏi dữ liệu người dùng",
+            "Thủ tục cơ sở dữ liệu lưu trong cơ sở dữ liệu và chạy nhanh hơn câu lệnh trực tiếp"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "56cc1de7-700b-4272-9ef8-84615d014be9",
+        "question": "Có thể phòng chống tấn công Smurf bằng cách cấu hình các máy và router không trả lời.",
+        "answers": [
+            "các yêu cầu UPD hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu TCP hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu HTTP hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu ICMP hoặc các yêu cầu phát quảng bá"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "c40a58d0-411c-41e2-843d-ff74c649639d",
+        "question": "Một trong các biện pháp hiệu quả để phòng chống macro viruses là:",
+        "answers": [
+            "Sử dụng IPS/IDS.",
+            "Sử dụng tường lửa",
+            "Cấm tự động thực hiện macro trong Microsoft Office",
+            "Cấm tự động thực hiện macro trong Microsoft Exchange"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "9547d510-d9b2-40a3-bbea-a5c76c04e736",
+        "question": "Đâu là một trong các biện pháp chống tấn công khai thác lỗi tràn bộ đệm?",
+        "answers": [
+            "Sử dụng công nghệ xác minh mạnh",
+            "Sử dụng cơ chế cấm thực hiện mã trong dữ liệu",
+            "Sử dụng tường lửa",
+            "Sử dụng các kỹ thuật mật mã"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "50b6d79e-9043-407a-a897-1744c6392b06",
+        "question": "Tấn công chặn bắt thường liên quan đến việc nghe lén trên đường truyền và chuyển hướng thông tin để sử dụng trái phép?",
+        "answers": [
+            "Fabrications",
+            "Interceptions",
+            "Interruptions",
+            "Modifications"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "ecf9f6b1-82be-4829-96e1-b447e1a18356",
+        "question": "Tấn công gây ngắt quãng làm ngắt, hoặc chậm kênh truyền thông, hoặc làm quá tải hệ thống, ngăn cản việc truy nhập dịch vụ của người dùng hợp pháp:",
+        "answers": [
+            "Fabrications",
+            "Interceptions",
+            "Interruptions",
+            "Modifications"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "8f8a7064-cf4d-46ac-a954-b670969ae7df",
+        "question": "An toàn thông tin được chia làm những thành phần nào?",
+        "answers": [
+            "an toàn máy tính và dữ liệu, an toàn mạng, quản lý an toàn thông tin",
+            "an toàn mạng, quản lý an toàn thông tin, chính sách an toàn thông tin",
+            "an toàn mạng, an toàn máy tính và dữ liệu, chính sách an toàn thông tin",
+            "an toàn máy tính và dữ liệu, quản lý an toàn thông tin, chính sách an toàn thông tin"
+        ],
+        "part": 10,
+        "answer": 0
+    },
+    {
+        "uuid": "66ca100b-340e-4b4a-8cdd-d8ce3dc18229",
+        "question": "Nếu dữ liệu bị sửa đổi thì đã vi phạm yêu cầu gì?",
+        "answers": [
+            "toàn vẹn, sẵn dùng",
+            "bí mật, sẵn dùng",
+            "toàn vẹn, bí mật",
+            "an toàn. bí mật"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "d5458f83-381d-4bcb-ae97-9a7f7ab5d7e1",
+        "question": "Trong tấn công khai thác lỗi tràn bộ đệm tin tắc thường sử dụng một số lệnh NOP (No Operation) ở phần đầu của mã tấn công. Mục đích của việc này là gì:",
+        "answers": [
+            "tăng khả năng gây tràn bộ đệm",
+            "Tăng khả năng gây lỗi chương trình",
+            "Tăng khả năng phá hoại của mã tấn công",
+            "Tăng khả năng mã tấn công được thực hiện"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "17c1cea4-40a3-4e35-8844-0b9d747f2a6a",
+        "question": "Có thể phòng chống tấn công Smurf bằng cách cấu hình các máy và router không trả lời…",
+        "answers": [
+            "các yêu cầu UPD hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu ICMP hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu TCP hoặc các yêu cầu phát quảng bá",
+            "các yêu cầu HTTP hoặc các yêu cầu phát quảng bá"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "b4e247d2-1e01-4ace-9492-0a6d77c284bd",
+        "question": "Đâu là dạng lỗ hổng bảo mật thường gặp trong hệ điều hành và các phần mềm ứng dụng",
+        "answers": [
+            "Lỗi tràn bộ đệm",
+            "Lỗi quản trị",
+            "Lỗi thiết kế",
+            "Lỗi cấu hình"
+        ],
+        "part": 10,
+        "answer": 0
+    },
+    {
+        "uuid": "9e3191b5-3f47-45e9-a831-f42c8e3ee3a1",
+        "question": "Một hệ mã hóa (cryptosystem) được cấu thành từ hai thành phần chính gôm:",
+        "answers": [
+            "Phương pháp mã hóa và không gian khóa",
+            "Phương pháp mã hóa và chia khối",
+            "Giải thuật mã hóa và ký số",
+            "Giải thuật mã hóa và giải mã"
+        ],
+        "part": 10,
+        "answer": 0
+    },
+    {
+        "uuid": "2e4c1a5f-a011-4422-9a9a-d1e9d9a6b483",
+        "question": "Khi sinh cặp khóa RSA, các số nguyên tố p và q nên được chọn với kích thước...",
+        "answers": [
+            "Không có yêu cầu về kích thước của p và q",
+            "p càng lớn càng tốt",
+            "bằng khoảng một nửa kích thước của modulo n",
+            "q càng lớn càng tốt"
+        ],
+        "part": 10,
+        "answer": 2
+    },
+    {
+        "uuid": "2461a12a-a055-4c05-b09e-eabc9c18eb8a",
+        "question": "Giải thuật mã hóa AES được thiết kế dựa trên...",
+        "answers": [
+            "mạng hoán vị-xor",
+            "mạng hoán vị-thay thế",
+            "mạng hoán vị-vernam",
+            "mạng xor-thay thế"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "0f86ad24-fe37-46b2-bb70-859e9a12f3c8",
+        "question": "99.. Ví điện tử Paypal là một dạng…",
+        "answers": [
+            "Khóa mã (encrypted key)",
+            "Thẻ bài (token)",
+            "Thẻ thông minh (smartcard)",
+            "Thẻ ATM"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "f24f6913-a787-4de1-a3a2-d6d83db4438b",
+        "question": "Một trong các ứng dụng phổ biến của các hàm băm một chiều là để…",
+        "answers": [
+            "Mã hóa thẻ tín dụng",
+            "Mã hóa địa chỉ",
+            "Mã hóa tên tài khoản",
+            "Mã hóa mật khẩu"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "f0fd4d32-bb56-4997-bb59-799e009945d3",
+        "question": "Một hệ mã hóa (cryptosystem) được cầu thành từ hai thành phần chính gôm:",
+        "answers": [
+            "Phương pháp mã hóa và không gian khóa",
+            "Giải thuật mã hóa và giải mã",
+            "Phương pháp mã hóa và chia khối",
+            "Giải thuật mã hóa và ký số"
+        ],
+        "part": 10,
+        "answer": 0
+    },
+    {
+        "uuid": "e0b9ddb7-78e9-4134-b62c-8206a7be1f0d",
+        "question": "Số vòng lặp chuyển đổi cân thực hiện để chuyển bản rõ thành bản mã của giải thuật mã hóa AES với khóa 192 bít là:",
+        "answers": [
+            "16",
+            "12",
+            "14",
+            "10"
+        ],
+        "part": 10,
+        "answer": 1
+    },
+    {
+        "uuid": "d09f23fc-511d-43c2-bf76-5a44f53cd0d5",
+        "question": "Đâu là một chế độ hoạt động (Modes of Operation) của mã hóa khối?",
+        "answers": [
+            "EEC",
+            "ECC",
+            "EBC",
+            "ECB"
+        ],
+        "part": 10,
+        "answer": 3
+    },
+    {
+        "uuid": "d09f23fc-511d-43c2-bf76-5a44f53cd0da",
+        "question": "Đâu là một chế độ hoạt động (Modes of Operation) của mã hóa khối!?",
+        "answers": [
+            "CBB",
+            "CCB",
+            "CBC",
+            "BCC"
+        ],
+        "part": 10,
+        "answer": 2
+    }
+]
